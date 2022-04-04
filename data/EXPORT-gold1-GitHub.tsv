@@ -1,0 +1,1589 @@
+x	y	cluster	P31_obj_set_id_label	P31_obj_set	colors	label_gold1
+20.457228	-65.42118	102	(Q7315155) research center	Q7315155	#0094ff	academia
+-135.79823	35.24552	15	(Q4671277) academic institution	Q4671277	#0000ad	academia
+19.897766	-65.43898	102	(Q31855) research institute	Q31855	#0094ff	academia
+26.754633	-54.0548	348	(Q5633421) scientific journal	Q5633421	#cd0000	academia
+-130.44608	43.41963	253	(Q955824) learned society	Q955824	#ffdb00	academia
+-138.23001	36.401867	15	(Q180958) faculty	Q180958	#0000ad	academia
+-126.239174	28.29166	124	(Q5341295) educational organization	Q5341295	#00d0ff	academia
+30.401384	-40.197968	148	(Q13442814) scholarly article	Q13442814	#26ffd1	academia
+29.882736	-41.669434	148	(Q13442814) scholarly article, (Q871232) editorial	Q13442814, Q871232	#26ffd1	academia
+27.298212	-51.887566	348	(Q737498) academic journal	Q737498	#cd0000	academia
+-95.16575	121.76365	239	(Q2367225) university and college sports club	Q2367225	#eeff09	academia
+76.19893	93.8623	370	(Q5633421) scientific journal, (Q737498) academic journal, (Q773668) open-access journal	Q5633421, Q737498, Q773668	#890000	academia
+76.18	93.82992	370	(Q737498) academic journal, (Q773668) open-access journal	Q737498, Q773668	#890000	academia
+40.486027	-61.080402	93	(Q13442814) scholarly article, (Q7318358) review article	Q13442814, Q7318358	#007cff	academia
+-2.3967495	-151.52538	268	(Q187685) doctoral thesis	Q187685	#ffb600	academia
+34.82738	-54.92916	278	(Q23927052) conference paper	Q23927052	#ff9c00	academia
+-138.1914	37.347744	15	(Q2467461) academic department	Q2467461	#0000ad	academia
+50.230347	-45.885647	85	(Q2065227) official journal	Q2065227	#0068ff	academia
+27.230505	-53.012806	348	(Q5633421) scientific journal, (Q737498) academic journal	Q5633421, Q737498	#cd0000	academia
+27.59736	-54.883205	348	(Q47258130) scientific conference series	Q47258130	#cd0000	academia
+-137.48753	34.81592	15	(Q19844914) university building	Q19844914	#0000ad	academia
+25.851233	-50.347816	25	(Q18918145) academic journal article	Q18918145	#0000cd	academia
+73.59396	90.71601	121	(Q45400320) open-access publisher	Q45400320	#00c8ff	academia
+38.16092	-61.671837	93	(Q13442814) scholarly article, (Q1348305) erratum	Q13442814, Q1348305	#007cff	academia
+40.57607	-60.213783	93	(Q13442814) scholarly article, (Q7318358) review article,  -	Q13442814, Q7318358	#007cff	academia
+-2.7373636	-8.541187	170	(Q55454947) subcommittee of a technical committee	Q55454947	#56ffa0	academia
+34.736015	-54.957245	278	(Q1143604) proceedings	Q1143604	#ff9c00	academia
+-2.397397	-151.5161	268	(Q1266946) thesis	Q1266946	#ffb600	academia
+31.606277	-72.40291	227	(Q637866) book review	Q637866	#d4ff23	academia
+22.106295	-65.771416	102	(Q1402850) field study	Q1402850	#0094ff	academia
+-48.668045	5.9863787	125	(Q30749496) diploma thesis	Q30749496	#00d4ff	academia
+41.264133	-57.752674	93	(Q13442814) scholarly article,  - , (Q7318358) review article	Q13442814, Q7318358	#007cff	academia
+31.606514	-72.39764	227	(Q13442814) scholarly article, (Q637866) book review	Q13442814, Q637866	#d4ff23	academia
+25.46515	-49.892483	25	(Q21481766) academic chapter	Q21481766	#0000cd	academia
+35.712185	22.536913	235	(Q17518557) collection of articles	Q17518557	#e4ff13	academia
+28.90649	-37.967876	148	(Q13442814) scholarly article,  -	Q13442814	#26ffd1	academia
+40.92319	-62.116104	93	(Q13442814) scholarly article, (Q7318358) review article, (Q871232) editorial	Q13442814, Q7318358, Q871232	#007cff	academia
+29.282305	-38.20952	148	(Q13442814) scholarly article,  -	Q13442814	#26ffd1	academia
+60.39462	-87.82001	208	(Q13442814) scholarly article, (Q7316896) retraction notice	Q13442814, Q7316896	#aaff4d	academia
+60.393543	-87.82053	208	(Q13442814) scholarly article, (Q45182324) retracted paper	Q13442814, Q45182324	#aaff4d	academia
+40.825386	-58.69593	93	(Q13442814) scholarly article,  - , (Q7318358) review article,  -	Q13442814, Q7318358	#007cff	academia
+41.264015	-57.752705	93	(Q13442814) scholarly article,  - , (Q7318358) review article	Q13442814, Q7318358	#007cff	academia
+28.529747	-36.313873	148	(Q13442814) scholarly article,  - ,  -	Q13442814	#26ffd1	academia
+29.431715	-37.762947	148	(Q13442814) scholarly article,  -	Q13442814	#26ffd1	academia
+31.46652	-40.051098	148	(Q13442814) scholarly article, (Q69488) MDMA	Q13442814, Q69488	#26ffd1	academia
+29.550652	-42.855404	148	(Q13442814) scholarly article, (Q193842) geologic map	Q13442814, Q193842	#26ffd1	academia
+18.690725	-65.14157	102	(Q1298668) research project, (Q54875403) research grant	Q1298668, Q54875403	#0094ff	academia
+-52.450184	-28.361115	12	(Q3504085) rural municipality of Poland	Q3504085	#0000a4	administrative district
+-37.662212	-48.332558	26	(Q747074) comune of Italy	Q747074	#0000cd	administrative district
+-99.62718	-55.260532	152	(Q484170) commune of France	Q484170	#30ffc7	administrative district
+-55.796265	-70.22925	143	(Q515) city	Q515	#19ffde	administrative district
+-26.011358	-61.974213	61	(Q56061) administrative territorial entity	Q56061	#0024ff	administrative district
+-30.007608	-10.326419	337	(Q262166) municipality of Germany	Q262166	#f10800	administrative district
+-87.281784	-60.078262	326	(Q2555896) municipality of Colombia	Q2555896	#ff2200	administrative district
+-93.41944	-64.63076	38	(Q184188) canton of France (until 2015)	Q184188, until 2015	#0000f6	administrative district
+-38.471024	-49.120087	26	(Q70208) municipality of Switzerland	Q70208	#0000cd	administrative district
+-42.46931	-39.42511	265	(Q2074737) municipality of Spain	Q2074737	#ffbd00	administrative district
+-57.80346	-50.145706	108	(Q3957) town	Q3957	#00a4ff	administrative district
+-72.65777	-36.347023	213	(Q1115575) civil parish, (Q532) village	Q1115575, Q532	#b4ff43	administrative district
+-105.67109	0.4292241	329	(Q253019) Ortsteil	Q253019	#ff1a00	administrative district
+-66.43273	-49.684937	246	(Q5084) hamlet	Q5084	#feed00	administrative district
+92.305115	-37.679405	340	(Q61089180) part of municipality in the Czech Republic	Q61089180	#e80000	administrative district
+-58.20988	-51.44992	108	(Q532) village	Q532	#00a4ff	administrative district
+-93.69965	-64.79483	38	(Q18524218) canton of France	Q18524218	#0000f6	administrative district
+63.017254	-14.418488	305	(Q3024240) historical country	Q3024240	#ff5900	administrative district
+-25.767403	-57.720333	61	(Q1093829) city of the United States	Q1093829	#0024ff	administrative district
+-10.360866	-24.547918	100	(Q3184121) municipality of Brazil	Q3184121	#0090ff	administrative district
+-164.35004	-15.457586	41	(Q1289426) county of China	Q1289426	#0000ff	administrative district
+-54.728497	-70.86375	143	(Q486972) human settlement	Q486972	#19ffde	administrative district
+-16.734299	-21.668936	322	(Q123705) neighborhood	Q123705	#ff2d00	administrative district
+-67.346985	-4.4693274	373	(Q12813115) urban area in Sweden	Q12813115	#800000	administrative district
+-27.504915	-55.55366	61	(Q20202352) locality of Mexico	Q20202352	#0024ff	administrative district
+-19.2857	-13.450031	267	(Q2989398) commune of Algeria	Q2989398	#ffb900	administrative district
+-79.87993	-27.335373	114	(Q1131296) freguesia of Portugal, (Q3257686) locality	Q1131296, Q3257686	#00b8ff	administrative district
+-98.76422	-56.64097	152	(Q21869758) delegated commune, (Q484170) commune of France	Q21869758, Q484170	#30ffc7	administrative district
+-54.973747	-70.71225	143	(Q3257686) locality	Q3257686	#19ffde	administrative district
+-92.33984	-63.983692	38	(Q3192808) commune of Madagascar	Q3192808	#0000f6	administrative district
+-165.69928	-19.970243	41	(Q735428) town in China	Q735428	#0000ff	administrative district
+-131.09839	-71.87411	106	(Q56557504) city of Iran	Q56557504	#00a0ff	administrative district
+-138.33887	3.2939754	275	(Q1802801) rural municipality of Austria, (Q667509) municipality of Austria	Q1802801, Q667509	#ffa300	administrative district
+-163.85788	-14.275223	41	(Q1065118) district of China	Q1065118	#0000ff	administrative district
+-25.613739	-58.468784	61	(Q15127012) town of the United States	Q15127012	#0024ff	administrative district
+-53.5771	-28.707205	12	(Q3558970) village of Poland	Q3558970	#0000a4	administrative district
+4.094853	-31.008091	313	(Q3950) villa	Q3950	#ff4300	administrative district
+-33.622246	-48.694107	333	(Q2983893) quarter	Q2983893	#ff1300	administrative district
+-17.491703	-73.82427	245	(Q17343829) unincorporated community in the United States	Q17343829	#fbf100	administrative district
+-28.463865	-19.955275	374	(Q23828039) village/town/city in Lebanon	Q23828039	#800000	administrative district
+-33.52564	-47.380096	333	(Q2198484) municipal district	Q2198484	#ff1300	administrative district
+1.1917441	5.8750362	260	(Q188509) suburb	Q188509	#ffcc00	administrative district
+16.066507	52.707428	101	(Q19730508) former municipality	Q19730508	#0094ff	administrative district
+-138.47601	2.5239182	275	(Q17376095) cadastral municipality of Austria	Q17376095	#ffa300	administrative district
+-53.299675	-55.41318	283	(Q659103) commune of Romania	Q659103	#ff9100	administrative district
+-49.96115	-67.04209	361	(Q1134686) frazione	Q1134686	#a40000	administrative district
+-39.39391	-69.74488	89	(Q15284) municipality, (Q486972) human settlement	Q15284, Q486972	#0070ff	administrative district
+-78.809326	-51.303123	215	(Q498162) census-designated place	Q498162	#baff3c	administrative district
+-105.6526	-0.7876165	329	(Q253019) Ortsteil, (Q532) village	Q253019, Q532	#ff1a00	administrative district
+-30.876078	-59.67524	273	(Q751708) village in the United States	Q751708	#ffab00	administrative district
+-17.493181	-73.82321	245	(Q17343829) unincorporated community in the United States, (Q498162) census-designated place	Q17343829, Q498162	#fbf100	administrative district
+-29.206903	-21.021624	374	(Q2785216) municipality section	Q2785216	#800000	administrative district
+-84.20884	-83.31524	240	(Q3700011) kecamatan	Q3700011	#f1fc06	administrative district
+-44.48216	-19.35197	224	(Q15630849) village of Bulgaria,  -	Q15630849	#ceff29	administrative district
+-108.75073	-27.106834	296	(Q15217609) titular see	Q15217609	#ff6f00	administrative district
+92.09251	-38.906906	340	(Q5153359) municipality of the Czech Republic	Q5153359	#e80000	administrative district
+-70.717	-63.671104	321	(Q17051044) mahalle	Q17051044	#ff3000	administrative district
+-13.470073	-47.918755	290	(Q192611) electoral district	Q192611	#ff7e00	administrative district
+-32.176376	-59.12101	273	(Q51049922) village	Q51049922	#ffab00	administrative district
+-26.902506	-56.31817	61	(Q1952852) municipality of Mexico	Q1952852	#0024ff	administrative district
+-39.389366	-69.750565	89	(Q15284) municipality	Q15284	#0070ff	administrative district
+-25.993172	-67.26082	282	(Q149621) district	Q149621	#ff9100	administrative district
+79.95409	31.598972	202	(Q74047) ghost town	Q74047	#9dff5a	administrative district
+-54.45359	39.29523	256	(Q16748868) city walls	Q16748868	#ffd300	administrative district
+-69.60312	-59.160706	0	(Q1529096) village in Turkey	Q1529096	#000080	administrative district
+-165.64236	-19.8061	41	(Q1500350) township of the People's Republic of China	Q1500350	#0000ff	administrative district
+-50.474903	-27.899569	12	(Q21672098) village of Ukraine	Q21672098	#0000a4	administrative district
+-18.477541	-20.54721	322	(Q490933) local community	Q490933	#ff2d00	administrative district
+-52.1189	-46.830986	248	(Q192287) subdivisions of Russia, (Q532) village	Q192287, Q532	#ffea00	administrative district
+-69.58379	-59.101433	0	(Q1529096) village in Turkey, (Q532) village	Q1529096, Q532	#000080	administrative district
+-31.031813	-60.759884	273	(Q1530705) village development committee of Nepal	Q1530705	#ffab00	administrative district
+-72.73717	-35.787334	213	(Q1115575) civil parish	Q1115575	#b4ff43	administrative district
+-65.05424	-22.968403	66	(Q1523821) socken	Q1523821	#0034ff	administrative district
+76.90987	-134.00455	351	(Q56436498) village in India	Q56436498	#c40000	administrative district
+-165.85147	-20.71428	41	(Q986065) subdistrict of China	Q986065	#0000ff	administrative district
+18.673813	56.489952	101	(Q22674925) former populated place	Q22674925	#0094ff	administrative district
+-18.877806	-19.81306	322	(Q18663566) dissolved municipality of Japan	Q18663566	#ff2d00	administrative district
+-28.014303	-74.51414	120	(Q13221722) third-level administrative country subdivision	Q13221722	#00c8ff	administrative district
+79.64472	31.45378	202	(Q350895) abandoned village	Q350895	#9dff5a	administrative district
+-105.27867	1.3489125	329	(Q253019) Ortsteil, (Q486972) human settlement	Q253019, Q486972	#ff1a00	administrative district
+89.942665	-41.928844	122	(Q20871353) cadastral area in the Czech Republic, (Q5153359) municipality of the Czech Republic	Q20871353, Q5153359	#00ccff	administrative district
+-6.2227526	-9.865035	170	(Q23012917) village of Burkina Faso	Q23012917	#56ffa0	administrative district
+-22.571045	0.58315855	317	(Q2590631) municipality of Hungary	Q2590631	#ff3b00	administrative district
+-43.26113	-82.98856	357	(Q18691601) ward of Tanzania	Q18691601	#b20000	administrative district
+-41.365715	-21.967344	224	(Q1989945) agrotown	Q1989945	#ceff29	administrative district
+93.13589	-36.58268	340	(Q6784672) municipality of Slovakia	Q6784672	#e80000	administrative district
+-80.03366	-27.026024	114	(Q1131296) freguesia of Portugal	Q1131296	#00b8ff	administrative district
+-44.48035	-19.35279	224	(Q15630849) village of Bulgaria	Q15630849	#ceff29	administrative district
+-39.925003	-22.776476	224	(Q2514025) posyolok	Q2514025	#ceff29	administrative district
+-51.911953	-46.47799	248	(Q192287) subdivisions of Russia, (Q5084) hamlet	Q192287, Q5084	#ffea00	administrative district
+17.207687	22.406845	141	(Q100773131) economy of region	Q100773131	#16ffe1	administrative district
+-41.837334	-38.54587	265	(Q3055118) single entity of population	Q3055118	#ffbd00	administrative district
+-97.90742	4.9259057	129	(Q2583015) ghetto in Nazi-occupied Europe	Q2583015	#00e0fb	administrative district
+-36.875557	-47.259632	26	(Q24764) municipality of the Philippines	Q24764	#0000cd	administrative district
+-11.202978	-24.185339	100	(Q19658107) neighborhood of Brazil	Q19658107	#0090ff	administrative district
+-50.021477	-67.100365	361	(Q1134686) frazione, (Q486972) human settlement	Q1134686, Q486972	#a40000	administrative district
+-32.207188	12.385291	262	(Q2389082) rural commune of Vietnam	Q2389082	#ffc400	administrative district
+90.10204	-41.619736	122	(Q20871353) cadastral area in the Czech Republic, (Q61089180) part of municipality in the Czech Republic	Q20871353, Q61089180	#00ccff	administrative district
+-65.982895	-49.975956	246	(Q5084) hamlet, (Q532) village	Q5084, Q532	#feed00	administrative district
+-56.78113	-52.174538	108	(Q34841063) seat of the local council, (Q532) village	Q34841063, Q532	#00a4ff	administrative district
+65.05204	-11.89236	305	(Q15243209) historic district	Q15243209	#ff5900	administrative district
+-32.20712	12.3851595	262	(Q687188) ward of Vietnam	Q687188	#ffc400	administrative district
+11.551349	-77.47735	166	(Q5327369) chōchō	Q5327369	#4dffaa	administrative district
+-41.52869	-64.24835	343	(Q15303838) municipality seat	Q15303838	#df0000	administrative district
+-70.791466	-1.9688785	82	(Q814648) parish of Denmark	Q814648	#0060ff	administrative district
+-165.57658	-16.245655	41	(Q13100073) village-level division in China	Q13100073	#0000ff	administrative district
+-98.228745	-82.6993	113	(Q2225692) fourth-level administrative division in Indonesia	Q2225692	#00b4ff	administrative district
+-80.526215	-26.014091	114	(Q2179958) district of Peru	Q2179958	#00b8ff	administrative district
+-66.17341	-23.370646	66	(Q615980) parish of the Church of Sweden	Q615980	#0034ff	administrative district
+-138.55858	2.0576742	275	(Q17376095) cadastral municipality of Austria, (Q3257686) locality	Q17376095, Q3257686	#ffa300	administrative district
+-52.40328	-26.708126	12	(Q634099) rural settlement of Russia	Q634099	#0000a4	administrative district
+-130.43404	-71.470856	106	(Q11353) district of Iran	Q11353	#00a0ff	administrative district
+-99.96396	-81.685646	113	(Q2225692) fourth-level administrative division in Indonesia, (Q532) village	Q2225692, Q532	#00b4ff	administrative district
+-72.85483	-79.86398	48	(Q18333556) registration district in Sweden	Q18333556	#0000ff	administrative district
+-65.03398	-50.49299	246	(Q486972) human settlement, (Q5084) hamlet	Q486972, Q5084	#feed00	administrative district
+-100.45842	-54.971497	152	(Q3508250) Syndicat intercommunal	Q3508250	#30ffc7	administrative district
+-52.74944	-25.567577	12	(Q2661988) urban settlement in Russia	Q2661988	#0000a4	administrative district
+-130.00711	-71.21294	106	(Q15125752) rural district of Iran	Q15125752	#00a0ff	administrative district
+-85.24236	-82.52066	240	(Q26211545) desa	Q26211545	#f1fc06	administrative district
+-0.47804946	-77.65746	4	(Q1077097) tambon	Q1077097	#000089	administrative district
+-41.062756	-22.136131	224	(Q65661087) village in Belarus	Q65661087	#ceff29	administrative district
+-27.870275	-74.04234	120	(Q13220204) second-level administrative country subdivision	Q13220204	#00c8ff	administrative district
+-43.832153	-83.841515	357	(Q817477) tehsil	Q817477	#b20000	administrative district
+70.37669	-131.54607	158	(Q16830604) census town of India	Q16830604	#3cffba	administrative district
+-97.56628	-83.31957	113	(Q2225692) fourth-level administrative division in Indonesia, (Q965568) kelurahan	Q2225692, Q965568	#00b4ff	administrative district
+-29.088312	-12.529593	252	(Q42211429) township of Minnesota	Q42211429	#ffde00	administrative district
+-98.438545	-83.60165	113	(Q2225692) fourth-level administrative division in Indonesia, (Q26211545) desa	Q2225692, Q26211545	#00b4ff	administrative district
+-28.269587	-75.34195	120	(Q14757767) fourth-level administrative country subdivision	Q14757767	#00c8ff	administrative district
+-88.63657	-59.674263	326	(Q253326) cadastral municipality	Q253326	#ff2200	administrative district
+75.68098	-50.79755	355	(Q21100463) natural monument in the Czech Republic	Q21100463	#bb0000	administrative district
+-25.725258	-66.795746	282	(Q589282) ward or electoral division of the United Kingdom	Q589282	#ff9100	administrative district
+89.10677	-72.57227	190	(Q10977433) protected area of Ukraine	Q10977433	#83ff73	administrative district
+-41.537117	-64.255646	343	(Q15303838) municipality seat, (Q486972) human settlement	Q15303838, Q486972	#df0000	administrative district
+-68.2394	-3.8479636	373	(Q14839548) minor locality in Sweden	Q14839548	#800000	administrative district
+-75.506584	-16.210232	178	(Q3812392) union council of Bangladesh	Q3812392	#66ff90	administrative district
+-13.557979	-47.98433	290	(Q1195098) ward	Q1195098	#ff7e00	administrative district
+76.96984	-134.00926	351	(Q61278455) health sub-centre	Q61278455	#c40000	administrative district
+-71.25679	-65.352234	321	(Q23827464) centre of Saudi Arabia	Q23827464	#ff3000	administrative district
+-135.59183	10.317291	58	(Q28930084) parish of Victoria	Q28930084	#001cff	administrative district
+-29.133972	-16.806726	252	(Q17205621) township of Iowa	Q17205621	#ffde00	administrative district
+-9.996715	-24.695805	100	(Q3624938) city district of Brazil	Q3624938	#0090ff	administrative district
+-165.28442	-13.8017235	41	(Q1070912) Zhou	Q1070912	#0000ff	administrative district
+-84.2655	-83.28014	240	- , (Q3700011) kecamatan	Q3700011	#f1fc06	administrative district
+108.49999	8.782997	228	(Q1723032) kamienica	Q1723032	#d7ff1f	administrative district
+-33.324055	-24.057732	65	(Q15071808) selsaviet of Belarus	Q15071808	#0030ff	administrative district
+70.94932	-134.21881	158	(Q155239) Indian reserve	Q155239	#3cffba	administrative district
+-67.52585	-50.306442	246	(Q2023000) khutor	Q2023000	#feed00	administrative district
+-96.154274	-83.799484	113	(Q965568) kelurahan	Q965568	#00b4ff	administrative district
+-19.107975	9.536368	119	(Q20732405) volost of the Russian Empire	Q20732405	#00c4ff	administrative district
+-75.700806	-16.268076	178	(Q24036024) apylinkė	Q24036024	#66ff90	administrative district
+8.211002	-32.676598	369	(Q2066754) manor	Q2066754	#8d0000	administrative district
+89.418526	-42.98499	122	(Q23019040) geographic township of Quebec	Q23019040	#00ccff	administrative district
+-65.733	-27.34055	356	(Q6063801) parish of Venezuela	Q6063801	#b60000	administrative district
+-63.63112	-39.001797	172	(Q2151232) townland	Q2151232	#5aff9d	administrative district
+-37.34505	-46.01193	26	(Q61878) barangay	Q61878	#0000cd	administrative district
+-99.03103	-85.19408	113	(Q2225692) fourth-level administrative division in Indonesia, (Q4285979) gampong	Q2225692, Q4285979	#00b4ff	administrative district
+-105.97157	-0.5486021	329	(Q253019) Ortsteil, (Q5084) hamlet	Q253019, Q5084	#ff1a00	administrative district
+-107.636086	-1.5285163	112	(Q1138414) hermitage, (Q253019) Ortsteil	Q1138414, Q253019	#00b0ff	administrative district
+-51.86873	-56.48972	283	(Q490329) dong	Q490329	#ff9100	administrative district
+-52.133064	-30.56143	12	(Q479053) gromada of Poland	Q479053	#0000a4	administrative district
+-97.48463	-81.40428	113	(Q12488913) kampung of Papua, (Q2225692) fourth-level administrative division in Indonesia	Q12488913, Q2225692	#00b4ff	administrative district
+-100.75818	-81.10027	113	(Q2225692) fourth-level administrative division in Indonesia, (Q5084) hamlet	Q2225692, Q5084	#00b4ff	administrative district
+-44.201393	-39.01633	265	(Q20541692) settlement in Galicia, Spain	Q20541692	#ffbd00	administrative district
+92.37834	-37.827835	340	- , (Q61089180) part of municipality in the Czech Republic	Q61089180	#e80000	administrative district
+-30.41163	-16.588278	252	(Q9035798) township of Pennsylvania	Q9035798	#ffde00	administrative district
+-50.89878	-27.866196	12	(Q4414033) rural council of Ukraine	Q4414033	#0000a4	administrative district
+-51.641018	-46.02143	248	(Q192287) subdivisions of Russia, (Q2023000) khutor	Q192287, Q2023000	#ffea00	administrative district
+-33.267258	-24.030626	65	(Q15071808) selsaviet of Belarus, (Q19953632) former administrative territorial entity	Q15071808, Q19953632	#0030ff	administrative district
+-27.676334	-18.192959	374	(Q17198620) township of Ohio	Q17198620	#800000	administrative district
+-64.63759	-28.934698	356	(Q12397176) parish of Galicia, (Q4976993) civil parish	Q12397176, Q4976993	#b60000	administrative district
+-162.33945	-12.813257	41	(Q985488) residential community of the People's Republic of China	Q985488	#0000ff	administrative district
+-51.827957	-31.250965	12	(Q4291381) Amalgamated hromada	Q4291381	#0000a4	administrative district
+-25.4961	-30.839832	291	(Q28371991) village of Yemen	Q28371991	#ff7a00	administrative district
+-162.94592	-13.400338	41	(Q50231) administrative territorial entity of the People's Republic of China	Q50231	#0000ff	administrative district
+-22.21254	-59.48036	346	(Q28111) township in the United States	Q28111	#d60000	administrative district
+-64.50763	-29.112091	356	(Q12397176) parish of Galicia	Q12397176	#b60000	administrative district
+-54.49898	29.934793	192	(Q585956) masia	Q585956	#87ff70	administrative district
+-10.573561	-40.235638	185	(Q5116010) election to the Parliament of Catalonia	Q5116010	#77ff80	administrative district
+-24.280373	-57.68277	61	(Q17198545) township of Illinois	Q17198545	#0024ff	administrative district
+10.94929	-121.40811	362	(Q6270791) township of Missouri	Q6270791	#a40000	administrative district
+-29.236017	-10.859159	337	(Q17205774) township of Michigan	Q17205774	#f10800	administrative district
+-12.072817	15.221596	234	(Q17205735) township of Kansas	Q17205735	#e4ff13	administrative district
+-12.072351	15.22207	234	(Q24027556) township of Arkansas	Q24027556	#e4ff13	administrative district
+59.186237	-120.6138	293	(Q17201685) township of Indiana	Q17201685	#ff7700	administrative district
+-63.36314	-37.577404	172	(Q3910694) civil parishes of Ireland	Q3910694	#5aff9d	administrative district
+-88.04452	-59.87754	326	(Q5154047) quarter/commune of Cambodia	Q5154047	#ff2200	administrative district
+-42.382362	-39.907944	265	(Q22996476) ayuntamiento	Q22996476	#ffbd00	administrative district
+71.497314	-133.09544	158	(Q55463514) tribal area	Q55463514	#3cffba	administrative district
+-63.43484	-38.00212	172	(Q2500304) district electoral division	Q2500304	#5aff9d	administrative district
+-30.23301	-49.92113	333	(Q483515) myeon	Q483515	#ff1300	administrative district
+-71.681595	-66.52777	321	(Q23925393) douar	Q23925393	#ff3000	administrative district
+-163.42902	-16.359436	41	(Q6503489) Law of the Republic of China	Q6503489	#0000ff	administrative district
+-30.212812	-4.637113	337	(Q28739697) ancient county of China	Q28739697	#f10800	administrative district
+-23.468222	-20.905842	200	(Q12809484) township-level division similar to townships	Q12809484	#97ff60	administrative district
+-99.38566	-86.15165	113	(Q7930614) village of Taiwan	Q7930614	#00b4ff	administrative district
+-19.998425	-12.141654	267	(Q18652188) Gaqaa	Q18652188	#ffb900	administrative district
+12.50679	108.98982	111	(Q12409135) mineral index	Q12409135	#00acff	administrative district
+-135.58748	10.321887	58	(Q28931760) parish of New South Wales	Q28931760	#001cff	administrative district
+-20.470314	-59.731716	346	(Q104146934) United States of America State-level electoral district	Q104146934	#d60000	administrative district
+-67.105644	-22.12777	66	(Q11722303) rural municipality of Sweden and Finland	Q11722303	#0034ff	administrative district
+-52.116795	-56.302498	283	(Q12206807) block	Q12206807	#ff9100	administrative district
+-71.05381	-64.760994	321	(Q7551933) mahallah	Q7551933	#ff3000	administrative district
+-25.488129	-30.815546	291	(Q12225020) uzlah	Q12225020	#ff7a00	administrative district
+-33.226635	-59.157154	273	(Q103910453) village or neigbourhood	Q103910453	#ffab00	administrative district
+-86.16091	31.62892	341	(Q61786815) local heritage association in Sweden	Q61786815	#e40000	administrative district
+-21.914242	-7.337379	18	(Q60169073) ward of Nigeria	Q60169073	#0000b6	administrative district
+-53.91159	31.81865	192	(Q41176) building	Q41176	#87ff70	architecture
+10.26872	-33.89233	243	(Q751876) château	Q751876	#f8f500	architecture
+-34.690758	43.41371	249	(Q17715832) castle ruin	Q17715832	#ffe600	architecture
+12.62176	-34.779667	243	(Q16560) palace	Q16560	#f8f500	architecture
+-58.64654	-51.661415	108	(Q5783996) cottage	Q5783996	#00a4ff	architecture
+-34.604515	43.735004	249	(Q23413) castle	Q23413	#ffe600	architecture
+-34.780052	74.15563	31	(Q483453) fountain	Q483453	#0000df	architecture
+-38.006023	28.351418	88	(Q811979) architectural structure	Q811979	#0070ff	architecture
+-33.385532	43.738686	249	(Q92026) Japanese castle	Q92026	#ffe600	architecture
+64.64555	-11.83797	305	(Q35112127) historic building	Q35112127	#ff5900	architecture
+45.296017	52.71931	203	(Q18142) high-rise building	Q18142	#9dff5a	architecture
+8.179891	-33.21355	369	(Q879050) manor house	Q879050	#8d0000	architecture
+-125.14684	25.607515	124	(Q1244442) school building	Q1244442	#00d0ff	architecture
+6.5932407	5.0549655	132	(Q3947) house	Q3947	#02e8f4	architecture
+45.642174	52.5638	203	(Q11303) skyscraper	Q11303	#9dff5a	architecture
+70.28568	-15.115259	127	(Q210272) cultural heritage	Q210272	#00d8ff	architecture
+14.051881	-35.36217	243	(Q1365179) private mansion	Q1365179	#f8f500	architecture
+16.807615	1.7756383	210	(Q1307276) single-family detached home	Q1307276	#adff49	architecture
+-1.9048768	7.394186	260	(Q18247357) group of structures or buildings	Q18247357	#ffcc00	architecture
+-36.27814	26.867882	88	(Q4387609) architectural firm	Q4387609	#0070ff	architecture
+-53.711494	32.494034	192	(Q42948) wall	Q42948	#87ff70	architecture
+-2.25817	9.091774	260	(Q1497375) architectural ensemble	Q1497375	#ffcc00	architecture
+0.5559195	6.39511	260	(Q1498804) multiple dwellings	Q1498804	#ffcc00	architecture
+47.439823	54.5498	203	(Q1440300) observation tower	Q1440300	#9dff5a	architecture
+-122.01719	-31.9133	22	(Q1497375) architectural ensemble, (Q16970) church building	Q1497375, Q16970	#0000c4	architecture
+23.663736	69.25649	277	(Q1068842) footbridge	Q1068842	#ff9f00	architecture
+17.94404	19.297197	141	(Q655686) commercial building	Q655686	#16ffe1	architecture
+-73.7718	47.283432	45	(Q109607) ruins	Q109607	#0000ff	architecture
+-85.78828	39.2876	74	(Q2065736) cultural property, (Q3947) house	Q2065736, Q3947	#0048ff	architecture
+-88.56162	55.28022	145	(Q1584134) mound	Q1584134	#1fffd7	architecture
+7.3111396	-34.519978	369	(Q16974307) Dwór	Q16974307	#8d0000	architecture
+-5.822499	49.799	83	(Q191360) foundation	Q191360	#0060ff	architecture
+-39.816784	148.57898	52	(Q1303167) barn	Q1303167	#000cff	architecture
+-42.295288	149.70316	52	(Q214252) stable	Q214252	#000cff	architecture
+64.30961	-10.764893	305	(Q5773747) historic house	Q5773747	#ff5900	architecture
+7.3956	6.8386526	132	(Q1577547) revenue house	Q1577547	#02e8f4	architecture
+17.881031	1.319623	210	(Q5890494) homestead	Q5890494	#adff49	architecture
+-54.158283	31.011578	192	(Q41176) building, (Q585956) masia	Q41176, Q585956	#87ff70	architecture
+6.9591465	1.3066	132	(Q17489143) building with cornice, (Q3947) house	Q17489143, Q3947	#02e8f4	architecture
+123.887924	39.75366	173	(Q284053) dado	Q284053	#5dff9a	architecture
+54.113567	87.62946	107	(Q10480682) agricultural structure	Q10480682	#00a4ff	architecture
+-26.635923	43.16959	9	(Q12020836) timber-framed house	Q12020836	#00009b	architecture
+-121.422935	2.3504534	176	(Q695992) niche	Q695992	#63ff94	architecture
+16.21325	2.014934	210	(Q1202402) townhouse	Q1202402	#adff49	architecture
+-23.397379	-4.6161013	18	(Q12029081) nan	Q12029081	#0000b6	architecture
+-14.532553	0.7531706	303	(Q28843623) dwór complex	Q28843623	#ff5d00	architecture
+15.274497	2.3823512	210	(Q1021106) town house	Q1021106	#adff49	architecture
+-110.07638	-1.8158728	112	(Q517820) carriage house	Q517820	#00b0ff	architecture
+6.9751153	1.1340182	132	(Q17489143) building with cornice	Q17489143	#02e8f4	architecture
+7.947326	6.303244	132	(Q488654) rearhouse	Q488654	#02e8f4	architecture
+-15.994429	-22.164965	322	(Q58034280) outbuilding	Q58034280	#ff2d00	architecture
+-26.640009	43.1746	9	(Q1362233) Upper Lusatian house	Q1362233	#00009b	architecture
+-85.68716	32.620296	341	(Q41386943) Hoftor	Q41386943	#e40000	architecture
+11.062309	146.64522	168	(Q11424) film	Q11424	#50ffa7	arts, literature
+43.941525	-4.3021045	201	(Q3305213) painting	Q3305213	#9aff5d	arts, literature
+-64.91695	64.740036	229	(Q860861) sculpture	Q860861	#d7ff1f	arts, literature
+-64.846855	65.208275	229	(Q838948) work of art, (Q860861) sculpture	Q838948, Q860861	#d7ff1f	arts, literature
+-102.32008	-113.43047	69	(Q24354) theater	Q24354	#003cff	arts, literature
+-67.27196	65.05501	229	(Q179700) statue	Q179700	#d7ff1f	arts, literature
+36.570004	-8.071674	1	(Q838948) work of art	Q838948	#000080	arts, literature
+44.12271	-4.0511675	201	(Q18761202) watercolor painting	Q18761202	#9aff5d	arts, literature
+-81.280945	-2.5041397	214	(Q18219090) woodcut print	Q18219090	#b7ff40	arts, literature
+-63.201103	63.926605	229	(Q245117) relief sculpture	Q245117	#d7ff1f	arts, literature
+-86.46444	37.06958	74	(Q3152824) cultural institution	Q3152824	#0048ff	arts, literature
+-103.54729	-113.33429	69	(Q11812394) theatre company	Q11812394	#003cff	arts, literature
+-104.04275	-111.600235	69	(Q742421) theatrical troupe	Q742421	#003cff	arts, literature
+36.139103	-5.668666	1	(Q17537576) creative work	Q17537576	#000080	arts, literature
+57.292656	3.6843948	99	(Q125191) photograph	Q125191	#008cff	arts, literature
+-103.806946	-112.468155	69	(Q2416217) theatre troupe	Q2416217	#003cff	arts, literature
+-57.41873	62.133408	80	(Q11060274) print	Q11060274	#0058ff	arts, literature
+17.314276	136.55484	366	(Q24354) theater, (Q41253) movie theater	Q24354, Q41253	#960000	arts, literature
+45.83179	-4.9687953	201	(Q93184) drawing	Q93184	#9aff5d	arts, literature
+-65.492035	63.191105	229	(Q2293362) sculptural group	Q2293362	#d7ff1f	arts, literature
+-88.4677	39.15797	74	(Q1329623) cultural center	Q1329623	#0048ff	arts, literature
+37.61737	-7.6721315	1	(Q4502142) visual artwork	Q4502142	#000080	arts, literature
+-64.62594	66.376434	229	(Q20437094) installation	Q20437094	#d7ff1f	arts, literature
+-55.953503	63.1261	80	(Q15123870) lithograph	Q15123870	#0058ff	arts, literature
+36.013847	-9.063141	364	(Q667276) art exhibition	Q667276	#9b0000	arts, literature
+-59.359993	63.052288	80	(Q11835431) engraving	Q11835431	#0058ff	arts, literature
+37.832767	-14.024489	323	(Q29023906) temporary exhibition	Q29023906	#ff2900	arts, literature
+42.63535	-4.5275006	201	(Q860792) picture frame	Q860792	#9aff5d	arts, literature
+-77.57523	65.77709	221	(Q42195) petroglyph	Q42195	#c7ff30	arts, literature
+57.97648	2.9049706	99	(Q125191) photograph, (Q192425) postcard	Q125191, Q192425	#008cff	arts, literature
+-57.285515	62.50271	80	(Q11060274) print, (Q18218093) etching print	Q11060274, Q18218093	#0058ff	arts, literature
+57.114506	3.3700786	99	(Q125191) photograph, (Q861181) illustration	Q125191, Q861181	#008cff	arts, literature
+-103.76987	-114.84012	69	(Q76504821) scenography sketch	Q76504821	#003cff	arts, literature
+19.333303	-55.674088	294	(Q11448906) science award	Q11448906	#ff7300	awards
+155.99434	-3.397344	60	(Q193622) order	Q193622	#0024ff	awards
+157.60481	-2.4321847	60	(Q618779) award	Q618779	#0024ff	awards
+155.80673	-5.145385	60	(Q38033430) class of award	Q38033430	#0024ff	awards
+155.53593	-3.0446298	60	(Q60754876) grade of an order	Q60754876	#0024ff	awards
+157.0093	-5.4617457	60	(Q4504495) award ceremony	Q4504495	#0024ff	awards
+155.09033	-5.9910426	60	(Q131647) medal	Q131647	#0024ff	awards
+72.49407	-133.02318	158	(Q2732840) Gram panchayat	Q2732840	#3cffba	bank
+60.614796	-121.19756	293	(Q65954115) State Bank of India branch	Q65954115	#ff7700	bank
+63.109325	-129.10822	17	(Q73717181) Industrial Development Bank of India branch	Q73717181	#0000b2	bank
+60.61475	-121.12426	293	(Q66576265) Bank of India branch	Q66576265	#ff7700	bank
+67.768745	-127.40686	17	(Q71574305) United Bank of India branch	Q71574305	#0000b2	bank
+62.893894	-115.30343	220	(Q66538936) Vijaya Bank branch	Q66538936	#c4ff33	bank
+13.073019	-16.084436	367	(Q66877717) UCO Bank branch	Q66877717	#920000	bank
+11.537726	-11.6846695	39	(Q65954138) Axis Bank branch	Q65954138	#0000f6	bank
+18.776636	-19.379879	160	(Q66496996) Andhra Bank branch	Q66496996	#40ffb7	bank
+14.366867	-20.269075	160	(Q65954144) Canara Bank branch	Q65954144	#40ffb7	bank
+67.94031	-127.40066	17	(Q71713967) Union Bank of India branch	Q71713967	#0000b2	bank
+11.395714	-16.68443	367	(Q65954142) Bank of Baroda branch	Q65954142	#920000	bank
+17.406258	-19.845932	160	(Q66619497) HDFC Bank branch	Q66619497	#40ffb7	bank
+12.559261	-16.27291	367	(Q66768699) Corporation Bank branch	Q66768699	#920000	bank
+17.22163	-18.96054	160	(Q66771621) Dena Bank branch	Q66771621	#40ffb7	bank
+11.299896	-10.1974125	39	(Q69529214) Allahabad Bank branch	Q69529214	#0000f6	bank
+61.683846	-131.87611	298	(Q70081950) Bank of Maharashtra branch	Q70081950	#ff6c00	bank
+65.06903	-127.64546	17	(Q72984778) Federal Bank branch	Q72984778	#0000b2	bank
+64.50563	-129.47536	17	(Q73580208) Central Bank of India branch	Q73580208	#0000b2	bank
+11.495834	-11.364852	39	(Q65954125) Yes Bank branch	Q65954125	#0000f6	bank
+66.25865	-129.78096	17	(Q73839412) Indian Overseas Bank branch	Q73839412	#0000b2	bank
+64.62039	-131.11113	17	(Q73865589) Syndicate Bank branch	Q73865589	#0000b2	bank
+62.305126	-126.070175	17	(Q73887153) Oriental Bank of Commerce branch	Q73887153	#0000b2	bank
+64.7681	-129.40845	17	(Q73986959) Indian Bank branch	Q73986959	#0000b2	bank
+14.952888	-20.152573	160	(Q65954135) ICICI Bank branch	Q65954135	#40ffb7	bank
+13.240965	-20.850155	160	(Q74539826) Kotak Mahindra Bank branch	Q74539826	#40ffb7	bank
+62.90915	-115.26254	220	(Q75543355) Jammu & Kashmir Bank branch	Q75543355	#c4ff33	bank
+60.644375	-132.72221	298	(Q75804428) Pragathi Krishna Gramin Bank branch	Q75804428	#ff6c00	bank
+-151.57724	2.3498037	136	(Q16521) taxon	Q16521	#0cf4eb	biology
+-29.587423	68.51584	314	(Q2996394) biological process	Q2996394	#ff4300	biology
+-152.79643	2.5912056	136	(Q310890) monotypic taxon	Q310890	#0cf4eb	biology
+5.510096	-37.691685	46	(Q23038290) fossil taxon	Q23038290	#0000ff	biology
+37.21557	93.51422	95	(Q67015883) group or class of enzymes	Q67015883	#0084ff	biology
+-151.36484	2.3082457	136	(Q1040689) synonym, (Q16521) taxon	Q1040689, Q16521	#0cf4eb	biology
+-10.653001	2.3412273	78	(Q5058355) cellular component	Q5058355	#0054ff	biology
+108.39444	-52.845516	130	(Q12136) disease	Q12136	#00e0fb	biology
+-24.993555	63.359306	135	(Q189118) cell type	Q189118	#09f0ee	biology
+107.16582	-52.466805	130	(Q929833) rare disease	Q929833	#00e0fb	biology
+-105.22692	-36.390347	328	(Q958314) grape variety	Q958314	#ff1e00	biology
+39.60936	107.562126	2	(Q8054) protein	Q8054	#000084	biology
+38.47661	91.78082	95	(Q417841) protein family	Q417841	#0084ff	biology
+37.43642	107.5519	2	(Q37748) chromosome	Q37748	#000084	biology
+107.90386	-52.484497	130	(Q12136) disease, (Q929833) rare disease	Q12136, Q929833	#00e0fb	biology
+143.03659	38.08208	77	(Q4886) cultivar	Q4886	#0050ff	biology
+20.918089	-63.967884	102	(Q483242) laboratory	Q483242	#0094ff	biology
+110.0531	-45.11298	261	(Q7187) gene	Q7187	#ffc800	biology
+37.718	92.82649	95	(Q417841) protein family, (Q67015883) group or class of enzymes	Q417841, Q67015883	#0084ff	biology
+109.05444	-53.748127	130	(Q3241045) disease outbreak	Q3241045	#00e0fb	biology
+-42.45604	149.75946	52	(Q726) horse	Q726	#000cff	biology
+-0.18442294	-161.93562	49	(Q30612) clinical trial	Q30612	#0004ff	biology
+109.7183	-48.674904	261	(Q55788864) developmental defect during embryogenesis	Q55788864	#ffc800	biology
+34.460037	96.22307	372	(Q81505329) protein family associated with domain	Q81505329	#840000	biology
+34.51215	96.16821	372	(Q67015883) group or class of enzymes, (Q81505329) protein family associated with domain	Q67015883, Q81505329	#840000	biology
+57.691093	96.92953	207	(Q811534) remarkable tree	Q811534	#a7ff50	biology
+37.48005	113.37581	371	(Q420927) protein complex	Q420927	#890000	biology
+145.3901	39.415443	77	(Q26817508) rose cultivar	Q26817508	#0050ff	biology
+52.886375	96.74719	330	(Q15731356) apple cultivar	Q15731356	#ff1a00	biology
+37.568264	113.12423	371	(Q898273) protein domain	Q898273	#890000	biology
+38.692875	91.49312	95	(Q7251477) protein superfamily	Q7251477	#0084ff	biology
+110.814835	-46.304623	261	(Q277338) pseudogene, (Q7187) gene	Q277338, Q7187	#ffc800	biology
+-33.912083	73.41628	31	(Q2996394) biological process, (Q93740491) entity obsoleted in Gene Ontology	Q2996394, Q93740491	#0000df	biology
+112.145454	-46.04021	261	(Q427087) non-coding RNA, (Q7187) gene	Q427087, Q7187	#ffc800	biology
+40.974777	108.08485	2	(Q66826848) protein obsoleted in UniProtKB, SwissProt, TrEMBL, (Q8054) protein	Q66826848, Q8054	#000084	biology
+-145.05173	71.749756	51	(Q21014462) cell line,  -	Q21014462	#0008ff	biology
+-144.04616	71.22808	51	(Q21014462) cell line,  -	Q21014462	#0008ff	biology
+-143.46101	70.32397	51	(Q21014462) cell line,  -	Q21014462	#0008ff	biology
+-144.40033	68.49245	51	- , (Q21014462) cell line	Q21014462	#0008ff	biology
+-143.89836	72.3206	51	(Q21014462) cell line,  -	Q21014462	#0008ff	biology
+-144.85909	70.516	51	(Q21014462) cell line,  -	Q21014462	#0008ff	biology
+-142.93231	71.4609	51	(Q21014462) cell line,  -	Q21014462	#0008ff	biology
+58.636017	97.58453	207	(Q165145) Quercus robur,  - , (Q811534) remarkable tree	Q165145, Q811534	#a7ff50	biology
+110.71489	-46.520775	261	(Q277338) pseudogene	Q277338	#ffc800	biology
+-20.993898	-4.653194	18	(Q49695242) restriction enzyme type	Q49695242	#0000b6	biology
+-22.584549	60.470863	135	(Q201448) transfer RNA, (Q7187) gene	Q201448, Q7187	#09f0ee	biology
+-23.414648	61.42342	135	(Q284416) small nucleolar RNA, (Q7187) gene	Q284416, Q7187	#09f0ee	biology
+-22.646975	60.33947	135	(Q284578) small nuclear RNA, (Q7187) gene	Q284578, Q7187	#09f0ee	biology
+39.088562	107.80592	2	(Q20747295) protein-coding gene, (Q8054) protein	Q20747295, Q8054	#000084	biology
+38.51028	108.821915	2	(Q20747295) protein-coding gene	Q20747295	#000084	biology
+-21.852728	58.438602	339	(Q310899) microRNA	Q310899	#e80000	biology
+39.86393	106.18892	2	(Q11053) RNA, (Q8054) protein	Q11053, Q8054	#000084	biology
+-29.5106	68.43087	314	(Q4915012) biological pathway	Q4915012	#ff4300	biology
+57.891426	97.063515	207	(Q158746) Tilia cordata,  - , (Q811534) remarkable tree	Q158746, Q811534	#a7ff50	biology
+-21.482075	11.096861	119	(Q23838648) mature microRNA	Q23838648	#00c4ff	biology
+46.74221	-80.02493	8	(Q11173) chemical compound	Q11173	#000096	chemistry
+47.771973	-75.68338	8	(Q47154513) structural class of chemical compounds	Q47154513	#000096	chemistry
+46.55154	-80.58061	8	(Q11173) chemical compound, (Q12140) medication	Q11173, Q12140	#000096	chemistry
+102.532845	-23.592146	55	(Q59199015) group of stereoisomers	Q59199015	#0014ff	chemistry
+47.095196	-78.69496	8	(Q43460564) chemical entity	Q43460564	#000096	chemistry
+48.565575	-87.300255	247	(Q28885102) pharmaceutical product	Q28885102	#ffea00	chemistry
+35.868263	116.75614	371	(Q428069) intermetallic	Q428069	#890000	chemistry
+45.197533	-43.601307	302	(Q47461827) defined set	Q47461827	#ff6000	chemistry
+48.45708	-86.84619	247	(Q169336) mixture, (Q28885102) pharmaceutical product	Q169336, Q28885102	#ffea00	chemistry
+-24.353334	62.557915	135	(Q14860489) molecular function	Q14860489	#09f0ee	chemistry
+45.323284	-43.698868	302	(Q47461807) candidate set	Q47461807	#ff6000	chemistry
+-136.54028	34.956963	15	(Q3918) university	Q3918	#0000ad	education
+-126.32472	28.535755	124	(Q2385804) educational institution	Q2385804	#00d0ff	education
+-66.135635	-121.50124	184	(Q9842) primary school	Q9842	#73ff83	education
+-75.96547	-91.956696	187	(Q9826) high school	Q9826	#7dff7a	education
+-125.555466	26.582613	124	(Q3914) school	Q3914	#00d0ff	education
+-76.565094	-91.94339	187	(Q159334) secondary school	Q159334	#7dff7a	education
+-139.80878	31.712078	315	(Q189004) college	Q189004	#ff3f00	education
+-69.739006	-96.64247	332	(Q2418495) independent school	Q2418495	#ff1300	education
+-70.622955	-95.79858	332	(Q1080794) state school, (Q9826) high school	Q1080794, Q9826	#ff1300	education
+-70.913155	-95.50793	332	(Q159334) secondary school, (Q4671329) academy school	Q159334, Q4671329	#ff1300	education
+-127.792015	46.080566	253	(Q1663017) engineering school	Q1663017	#ffdb00	education
+-140.30641	31.197943	315	(Q38723) higher education institution	Q38723	#ff3f00	education
+-2.6038914	-162.03532	49	(Q494230) medical school	Q494230	#0004ff	education
+19.573805	18.389986	141	(Q1143635) business school	Q1143635	#16ffe1	education
+-64.41785	-121.135025	184	(Q149566) middle school	Q149566	#73ff83	education
+-138.5767	33.345432	15	(Q209465) campus	Q209465	#0000ad	education
+-124.774	24.771648	124	(Q398141) school district	Q398141	#00d0ff	education
+-67.77963	-121.88274	184	(Q1076052) preschool	Q1076052	#73ff83	education
+-78.08065	-92.43173	187	(Q64062731) higher secondary school	Q64062731	#7dff7a	education
+-66.19675	-124.112076	184	(Q126807) kindergarten	Q126807	#73ff83	education
+-140.88095	30.612186	315	(Q322563) vocational school	Q322563	#ff3f00	education
+-66.1482	-122.9492	184	(Q126807) kindergarten, (Q9842) primary school	Q126807, Q9842	#73ff83	education
+-67.66407	-111.71731	19	(Q4671329) academy school, (Q9842) primary school	Q4671329, Q9842	#0000bb	education
+-67.47469	-112.81818	19	(Q5155053) community school, (Q9842) primary school	Q5155053, Q9842	#0000bb	education
+-71.29228	-81.485245	48	(Q13132631) Welsh-medium school	Q13132631	#0000ff	education
+-67.253944	-114.05204	19	(Q7940971) voluntary aided school, (Q9842) primary school	Q7940971, Q9842	#0000bb	education
+-78.15914	-99.181114	137	(Q64063386) upper primary school	Q64063386	#0cf4eb	education
+-67.32726	-113.65297	19	(Q7940973) voluntary controlled school, (Q9842) primary school	Q7940973, Q9842	#0000bb	education
+-136.22978	24.956636	295	(Q1076099) school library	Q1076099	#ff7300	education
+-112.19648	-86.43648	29	(Q64063317) lower primary school	Q64063317	#0000d6	education
+-113.23427	-86.768425	29	(Q1080794) state school, (Q64063317) lower primary school	Q1080794, Q64063317	#0000d6	education
+-44.986973	-91.36535	44	(Q67015947) Government Boys' High School	Q67015947	#0000ff	education
+-7.3954606	37.09341	186	(Q15632617) fictional human, (Q15773317) television character	Q15632617, Q15773317	#7aff7d	fictional work
+-7.63087	33.5252	186	(Q15632617) fictional human	Q15632617	#7aff7d	fictional work
+-26.674248	-17.939487	374	(Q22988604) mythological Greek character	Q22988604	#800000	fictional work
+96.148285	-98.185745	195	(Q1114461) comics character	Q1114461	#8dff6a	fictional work
+97.47245	-98.43535	195	(Q838795) comic strip	Q838795	#8dff6a	fictional work
+-7.487345	35.007374	186	(Q95074) fictional character	Q95074	#7aff7d	fictional work
+-6.001708	31.762203	186	(Q3658341) literary character	Q3658341	#7aff7d	fictional work
+-7.1900544	33.1421	186	(Q15632617) fictional human, (Q3658341) literary character	Q15632617, Q3658341	#7aff7d	fictional work
+-14.997393	39.756527	236	(Q15632617) fictional human, (Q3375722) theatrical character	Q15632617, Q3375722	#e7ff0f	fictional work
+-7.4245152	36.33191	186	(Q15632617) fictional human, (Q15773347) film character	Q15632617, Q15773347	#7aff7d	fictional work
+98.33396	-98.93025	195	(Q2831984) comic book album	Q2831984	#8dff6a	fictional work
+-15.635244	40.166096	236	(Q15632617) fictional human, (Q63975020) musical theatre character	Q15632617, Q63975020	#e7ff0f	fictional work
+-15.971935	40.384296	236	(Q15632617) fictional human, (Q50386450) operatic character	Q15632617, Q50386450	#e7ff0f	fictional work
+-97.43533	-6.7393475	6	(Q858157) German folk tale	Q858157	#000092	fictional work
+78.26842	-87.35656	205	(Q53460949) manga chapter	Q53460949	#a4ff53	fictional work
+46.128635	-81.50811	8	(Q2095) food	Q2095	#000096	food
+-105.43959	-36.187298	328	(Q282) wine	Q282	#ff1e00	food
+72.878006	-100.979904	104	(Q7058673) video game series	Q7058673	#009cff	games
+74.209785	-100.78565	104	(Q7889) video game	Q7889	#009cff	games
+46.86865	125.02231	312	(Q131436) board game	Q131436	#ff4700	games
+73.20147	-100.9387	104	(Q210167) video game developer	Q210167	#009cff	games
+18.362993	-101.059105	209	(Q151885) concept	Q151885	#adff49	general
+-132.06003	-72.45674	106	(Q180684) conflict	Q180684	#00a0ff	general
+47.809414	-75.5259	8	(Q10929058) model	Q10929058	#000096	general
+-3.4499035	6.063497	260	(Q16887380) group	Q16887380	#ffcc00	general
+-3.6288297	56.850082	271	(Q48204) voluntary association	Q48204	#ffae00	general
+20.240126	-67.02957	102	(Q170584) project	Q170584	#0094ff	general
+39.562885	4.565327	183	(Q101072) definition	Q101072	#73ff83	general
+-46.336765	18.82471	216	(Q1302471) unit of volume	Q1302471	#baff3c	general
+39.535835	4.3356953	183	(Q82799) name	Q82799	#73ff83	general
+-17.939545	-5.993203	336	(Q71798532) blue object	Q71798532	#f60b00	general
+93.64675	6.76019	264	(Q67035425) ASTM standard	Q67035425	#ffc100	general
+-24.795633	-4.853705	18	(Q96323920) nan	Q96323920	#0000b6	general
+-23.857462	-6.0386834	18	(Q96323943) nan	Q96323943	#0000b6	general
+-41.031773	29.24021	88	(Q253623) patent	Q253623	#0070ff	general
+-71.54566	17.01403	281	(Q4022) river	Q4022	#ff9400	geography
+-80.35446	-17.689747	334	(Q23442) island	Q23442	#fa0f00	geography
+74.47524	-38.66596	292	(Q46169) national park	Q46169	#ff7a00	geography
+96.60176	16.082714	27	(Q82794) geographic region	Q82794	#0000d1	geography
+-80.55617	-19.522764	334	(Q34763) peninsula	Q34763	#fa0f00	geography
+11.808331	110.3181	111	(Q12089225) mineral species	Q12089225	#00acff	geography
+-71.238686	0.1065387	82	(Q12284) canal	Q12284	#0060ff	geography
+-71.67733	14.709857	281	(Q37901) strait	Q37901	#ff9400	geography
+-45.833286	82.28459	288	(Q46831) mountain range	Q46831	#ff8200	geography
+-80.89141	-17.630905	334	(Q1402592) island group	Q1402592	#fa0f00	geography
+-33.341698	85.20675	223	(Q39594) bay	Q39594	#caff2c	geography
+-48.855022	81.93955	97	(Q8502) mountain	Q8502	#0088ff	geography
+-13.635602	77.19507	226	(Q34442) road	Q34442	#d1ff26	geography
+-42.92298	57.50586	131	(Q8514) desert	Q8514	#00e4f8	geography
+-70.17772	85.85338	204	(Q160091) plain	Q160091	#a0ff56	geography
+-31.987568	96.70829	87	(Q23397) lake	Q23397	#006cff	geography
+-44.548576	64.87514	280	(Q271669) landform	Q271669	#ff9800	geography
+-49.825092	80.45277	97	(Q54050) hill	Q54050	#0088ff	geography
+65.18633	-25.247221	353	(Q839954) archaeological site	Q839954	#bf0000	geography
+-12.905864	111.63382	196	(Q131681) reservoir	Q131681	#90ff66	geography
+-70.21212	85.52956	204	(Q75520) plateau	Q75520	#a0ff56	geography
+-65.76805	16.707613	28	(Q39816) valley	Q39816	#0000d6	geography
+71.56159	-40.215504	292	(Q22698) park	Q22698	#ff7a00	geography
+88.45239	46.236546	64	(Q7944) earthquake	Q7944	#002cff	geography
+73.32214	-40.654804	292	(Q179049) nature reserve	Q179049	#ff7a00	geography
+-46.372993	83.34576	288	(Q8072) volcano	Q8072	#ff8200	geography
+-83.942894	33.87387	341	(Q14659) coat of arms	Q14659	#e40000	geography
+55.00512	95.156235	330	(Q4421) forest	Q4421	#ff1a00	geography
+-71.26475	15.887195	281	(Q355304) watercourse, (Q4022) river	Q355304, Q4022	#ff9400	geography
+-83.46952	17.234983	149	(Q34038) waterfall	Q34038	#26ffd1	geography
+-44.642708	82.884445	288	(Q133056) mountain pass	Q133056	#ff8200	geography
+-68.456154	14.01908	281	(Q63565252) brook	Q63565252	#ff9400	geography
+-30.13377	95.84114	87	(Q3253281) pond	Q3253281	#006cff	geography
+-33.40404	84.91565	223	(Q40080) beach	Q40080	#caff2c	geography
+75.11936	-42.430027	71	(Q473972) protected area	Q473972	#0040ff	geography
+-16.553028	100.763054	10	(Q35666) glacier	Q35666	#00009b	geography
+-9.730081	-88.3907	193	(Q74817647) aspect in a geographic region	Q74817647	#8aff6d	geography
+15.612313	108.83306	111	(Q959309) coal mine	Q959309	#00acff	geography
+-49.03407	81.27388	97	(Q54050) hill, (Q8502) mountain	Q54050, Q8502	#0088ff	geography
+-26.28051	78.03067	306	(Q150784) canyon	Q150784	#ff5500	geography
+-74.75693	59.84043	221	(Q631305) rock formation	Q631305	#c7ff30	geography
+-3.0564277	74.11128	133	(Q82117) city gate	Q82117	#06ecf1	geography
+11.013167	68.82587	147	(Q7543083) avenue	Q7543083	#23ffd4	geography
+53.580505	96.24579	330	(Q207934) allée	Q207934	#ff1a00	geography
+12.505091	109.32209	111	(Q820477) mine	Q820477	#00acff	geography
+-46.000294	65.41887	280	(Q618123) geographical feature	Q618123	#ff9800	geography
+-85.86897	17.611397	149	(Q185113) cape	Q185113	#26ffd1	geography
+2.6317089	96.76229	171	(Q35509) cave	Q35509	#5aff9d	geography
+-15.4876795	113.056496	196	(Q187223) lagoon	Q187223	#90ff66	geography
+-72.81567	12.288713	218	(Q355304) watercourse	Q355304	#c1ff36	geography
+-79.37527	-17.514185	334	(Q207524) islet	Q207524	#fa0f00	geography
+-17.57287	101.13609	10	(Q130003) ski resort	Q130003	#00009b	geography
+-70.04021	17.046125	281	(Q55659167) natural watercourse	Q55659167	#ff9400	geography
+-73.93417	12.490657	218	(Q124714) spring	Q124714	#c1ff36	geography
+-36.960266	29.854343	88	(Q15642541) human-geographic territorial entity	Q15642541	#0070ff	geography
+-12.546319	109.884705	196	(Q12323) dam	Q12323	#90ff66	geography
+-36.31303	75.335365	31	(Q24529780) point	Q24529780	#0000df	geography
+-48.02156	80.35429	97	(Q740445) ridge	Q740445	#0088ff	geography
+-26.296177	78.02205	306	(Q55462851) gorge	Q55462851	#ff5500	geography
+-69.26005	14.678335	281	(Q47521) stream	Q47521	#ff9400	geography
+-34.193752	81.54932	223	(Q28337) shoal	Q28337	#caff2c	geography
+-34.31491	100.98395	180	(Q184358) reef	Q184358	#6dff8a	geography
+-44.941193	65.39763	280	(Q2221906) geographic location	Q2221906	#ff9800	geography
+76.695915	-43.52817	71	(Q1191622) Special Area of Conservation	Q1191622	#0040ff	geography
+-36.053974	106.22383	180	(Q166735) swamp	Q166735	#6dff8a	geography
+-43.785282	68.44585	280	(Q47089) fault	Q47089	#ff9800	geography
+-50.13462	83.110596	97	(Q207326) summit	Q207326	#0088ff	geography
+-0.42632857	-77.65956	4	(Q427287) wat	Q427287	#000089	geography
+-95.070595	-9.114332	6	(Q759421) nature reserve	Q759421	#000092	geography
+-64.29498	18.18795	28	(Q187971) wadi	Q187971	#0000d6	geography
+-73.86801	59.93758	221	(Q1404150) rock	Q1404150	#c7ff30	geography
+-35.95754	106.1595	180	(Q170321) wetland	Q170321	#6dff8a	geography
+-12.507425	107.67422	196	(Q1210950) channel	Q1210950	#90ff66	geography
+-36.806152	76.74058	31	(Q1400565) spur	Q1400565	#0000df	geography
+-81.731804	82.21207	142	(Q190429) depression	Q190429	#19ffde	geography
+-36.92329	75.62951	31	(Q1245089) promontory	Q1245089	#0000df	geography
+1.6527227	101.99622	225	(Q43483) well	Q43483	#d1ff26	geography
+-79.15972	62.37788	221	(Q164240) megalith	Q164240	#c7ff30	geography
+55.092785	93.06392	330	(Q188913) plantation	Q188913	#ff1a00	geography
+-44.392925	67.086685	280	(Q736917) formation	Q736917	#ff9800	geography
+-89.25494	55.477013	145	(Q34023) tumulus	Q34023	#1fffd7	geography
+-86.16299	17.655802	149	(Q491713) sound	Q491713	#26ffd1	geography
+-2.4484851	73.871704	133	(Q53060) gate	Q53060	#06ecf1	geography
+-13.484777	106.55782	196	(Q2042028) ravine	Q2042028	#90ff66	geography
+-44.876854	80.93139	288	(Q182676) mountain hut	Q182676	#ff8200	geography
+-33.043858	86.770966	223	(Q5926864) group of lakes	Q5926864	#caff2c	geography
+12.952962	66.75425	147	(Q2143825) hiking trail	Q2143825	#23ffd4	geography
+-38.785652	75.18935	31	(Q55075651) upland	Q55075651	#0000df	geography
+-83.97444	17.31443	149	(Q15324) body of water	Q15324	#26ffd1	geography
+-40.011852	28.892485	88	(Q811430) human-made geographic feature	Q811430	#0070ff	geography
+1.6769649	103.10615	225	(Q211748) oil field	Q211748	#d1ff26	geography
+-15.698079	102.22556	10	(Q45776) fjord	Q45776	#00009b	geography
+-73.13478	16.633705	281	(Q1233637) river mouth	Q1233637	#ff9400	geography
+-30.577074	2.8353374	238	(Q10313934) intermittent lake	Q10313934	#ebff0c	geography
+-46.471344	43.707302	81	(Q744099) hillfort	Q744099	#005cff	geography
+55.07683	94.08916	330	(Q12292478) estate	Q12292478	#ff1a00	geography
+-32.10232	96.70723	87	(Q23397) lake,  -	Q23397	#006cff	geography
+-18.109715	139.32065	162	(Q11446) ship, (Q852190) shipwreck	Q11446, Q852190	#43ffb4	geography
+-35.115463	103.6182	180	(Q1681353) bog	Q1681353	#6dff8a	geography
+73.23124	-40.669655	292	(Q1286517) natural landscape	Q1286517	#ff7a00	geography
+-50.90152	83.834724	97	(Q107679) cliff	Q107679	#0088ff	geography
+-36.690838	103.18756	180	(Q30198) marsh	Q30198	#6dff8a	geography
+-29.7321	2.0347817	238	(Q55463449) intermittent wetland	Q55463449	#ebff0c	geography
+-81.75397	82.28451	142	(Q813672) basin	Q813672	#19ffde	geography
+11.992317	67.21811	147	(Q628179) trail	Q628179	#23ffd4	geography
+-42.932713	58.645786	131	(Q34379419) sand area	Q34379419	#00e4f8	geography
+-95.55201	-8.608025	6	(Q21503788) Landschaftsschutzgebiet	Q21503788	#000092	geography
+-65.63783	18.041277	28	(Q55659107) intermittent natural watercourse	Q55659107	#0000d6	geography
+-75.25386	58.87608	221	(Q193475) menhir	Q193475	#c7ff30	geography
+77.20313	-42.350082	71	(Q422211) Site of Special Scientific Interest	Q422211	#0040ff	geography
+-11.714547	80.08471	226	(Q10145) milestone	Q10145	#d1ff26	geography
+-66.043106	18.973923	28	(Q591942) distributary	Q591942	#0000d6	geography
+-69.557594	18.226404	281	(Q17018380) bight	Q17018380	#ff9400	geography
+89.106415	-72.571236	190	(Q2006279) provincial park of Canada	Q2006279	#83ff73	geography
+-73.14826	19.001442	281	(Q695793) rapids	Q695793	#ff9400	geography
+75.56395	-50.95702	355	(Q9309832) nature reserve in Poland	Q9309832	#bb0000	geography
+-14.810737	112.68463	196	(Q105190) levee	Q105190	#90ff66	geography
+-42.926758	59.221504	131	(Q25391) dune	Q25391	#00e4f8	geography
+52.988518	87.55464	107	(Q131596) farm	Q131596	#00a4ff	geography
+-35.459152	103.15311	180	(Q3240227) moor	Q3240227	#6dff8a	geography
+-45.292347	6.797947	125	(Q1640496) conciliation cross	Q1640496	#00d4ff	geography
+-12.318976	79.14493	226	(Q921099) boundary marker	Q921099	#d1ff26	geography
+-12.592942	78.75377	226	(Q1307347) boundary	Q1307347	#d1ff26	geography
+-31.188183	96.30511	87	(Q104093746) lake or pond, (Q23397) lake	Q104093746, Q23397	#006cff	geography
+76.10236	-45.46836	71	(Q15069452) Natura 2000 protected area	Q15069452	#0040ff	geography
+-81.78356	68.76146	3	(Q12661150) column shrine	Q12661150	#000089	geography
+11.329026	67.51294	147	(Q2309609) wayside cross	Q2309609	#23ffd4	geography
+-94.62235	-9.5565405	6	(Q21573182) Naturdenkmal in Germany	Q21573182	#000092	geography
+-40.234074	73.90111	31	(Q16887036) gap	Q16887036	#0000df	geography
+-42.76329	60.506336	131	(Q106259) polder	Q106259	#00e4f8	geography
+-18.248766	139.66585	162	(Q12859788) steamship, (Q852190) shipwreck	Q12859788, Q852190	#43ffb4	geography
+-72.41872	11.150761	218	(Q3177968) vivarium	Q3177968	#c1ff36	geography
+74.33185	-4.6046925	194	(Q21562164) National Historical Commission of the Philippines historical marker	Q21562164	#8aff6d	geography
+74.35551	-42.074722	292	(Q20071150) botanical natural monument	Q20071150	#ff7a00	geography
+-0.90552825	75.62203	133	(Q23069713) pass	Q23069713	#06ecf1	geography
+-77.18264	62.53557	221	(Q1935728) stone circle	Q1935728	#c7ff30	geography
+5.6576576	46.489185	206	(Q7379880) runic inscription	Q7379880	#a7ff50	geography
+-38.68096	27.26217	88	(Q684740) real property	Q684740	#0070ff	geography
+-40.97051	73.4529	31	(Q2231510) col	Q2231510	#0000df	geography
+59.2812	40.940155	182	(Q17172602) monumental cross	Q17172602	#70ff87	geography
+-43.143127	79.35812	288	(Q2082774) shieling	Q2082774	#ff8200	geography
+-55.120045	63.457222	80	(Q2092603) member	Q2092603	#0058ff	geography
+-8.571786	-25.264122	100	(Q7246143) Private Natural Heritage Conservation Area	Q7246143	#0090ff	geography
+-34.0291	82.45012	223	(Q637600) sabkha	Q637600	#caff2c	geography
+-12.601493	109.87619	196	(Q12323) dam,  - ,  -	Q12323	#90ff66	geography
+-93.74742	-10.422201	6	(Q22969563) bodendenkmal	Q22969563	#000092	geography
+0.3506223	101.26523	225	(Q459297) qanat	Q459297	#d1ff26	geography
+-11.408267	107.106575	196	(Q28045079) contour fort	Q28045079	#90ff66	geography
+-35.45924	44.74329	249	(Q92086) promontory fort	Q92086	#ffe600	geography
+-78.0924	63.708378	221	(Q15120977) stone grave	Q15120977	#c7ff30	geography
+1.1988518	100.861595	225	(Q55468440) underground irrigation canal	Q55468440	#d1ff26	geography
+-71.92731	18.4531	281	(Q478251) bar	Q478251	#ff9400	geography
+-77.177704	64.36382	221	(Q2341654) stone setting	Q2341654	#c7ff30	geography
+-69.12495	-3.2099857	373	(Q87193797) tjern / tjärn	Q87193797	#800000	geography
+-91.18207	55.98466	145	(Q2046310) bowl barrow	Q2046310	#1fffd7	geography
+-89.98628	55.68801	145	(Q2046325) round barrow	Q2046325	#1fffd7	geography
+-46.124443	-6.7699633	59	(Q12672672) ancient burial ground	Q12672672	#0020ff	geography
+-82.10283	83.219955	142	(Q55710865) pan	Q55710865	#19ffde	geography
+-17.682585	138.2364	162	(Q13561346) fishing vessel, (Q852190) shipwreck	Q13561346, Q852190	#43ffb4	geography
+65.18366	-25.24217	353	- , (Q839954) archaeological site	Q839954	#bf0000	geography
+-24.735912	-5.7534223	18	(Q28803049) nan	Q28803049	#0000b6	geography
+-18.72013	140.80876	162	(Q210223) sloop, (Q852190) shipwreck	Q210223, Q852190	#43ffb4	geography
+13.311237	30.089678	20	(Q4830453) business, (Q6881511) enterprise	Q4830453, Q6881511	#0000bb	government, legal
+71.793434	-59.161236	34	(Q820655) legislative act	Q820655	#0000e8	government, legal
+58.46548	64.80723	150	(Q7278) political party	Q7278	#29ffce	government, legal
+-6.3606234	56.047432	271	(Q163740) nonprofit organization	Q163740	#ffae00	government, legal
+-33.17659	-46.797863	333	(Q21850100) municipal flag	Q21850100	#ff1300	government, legal
+59.20477	65.72944	150	(Q7210356) political organisation	Q7210356	#29ffce	government, legal
+-6.119826	-50.016598	84	(Q294414) public office	Q294414	#0064ff	government, legal
+18.782324	18.752144	141	(Q4830453) business	Q4830453	#16ffe1	government, legal
+-4.529752	56.57713	271	(Q43229) organization	Q43229	#ffae00	government, legal
+-25.24756	30.97467	197	(Q355567) noble title	Q355567	#90ff66	government, legal
+-6.1245017	-52.034016	84	(Q858439) presidential election	Q858439	#0064ff	government, legal
+-47.731186	17.862453	216	(Q131569) treaty	Q131569	#baff3c	government, legal
+-23.801495	-54.365295	61	(Q543654) city hall	Q543654	#0024ff	government, legal
+-111.02859	31.304188	96	(Q1664720) institute	Q1664720	#0084ff	government, legal
+-0.7136832	-49.854973	345	(Q15238777) legislative term	Q15238777	#d60000	government, legal
+-26.433565	-68.511795	282	(Q22807280) flag of a country subdivision	Q22807280	#ff9100	government, legal
+29.316137	6.8722806	300	(Q167270) trademark	Q167270	#ff6400	government, legal
+15.770971	31.113676	20	(Q79913) non-governmental organization	Q79913	#0000bb	government, legal
+4.583954	-63.79154	258	(Q783794) company	Q783794	#ffd000	government, legal
+-7.920609	-43.646126	185	(Q43109) referendum	Q43109	#77ff80	government, legal
+3.4717612	-91.14177	128	(Q2334719) legal case	Q2334719	#00dcfe	government, legal
+72.01866	90.14986	121	(Q891723) public company	Q891723	#00c8ff	government, legal
+-6.1972647	-49.70113	84	(Q40231) election	Q40231	#0064ff	government, legal
+-31.674816	-16.498913	252	(Q27971968) constituency of the House of Commons	Q27971968	#ffde00	government, legal
+-7.515754	-65.334045	163	(Q327333) government agency	Q327333	#46ffb1	government, legal
+-9.734166	-89.060555	193	(Q23983664) demographics of country or region	Q23983664	#8aff6d	government, legal
+-101.20705	-56.246986	152	(Q18706073) Public institution of intermunicipal cooperation with own taxation	Q18706073	#30ffc7	government, legal
+71.30111	-61.094433	34	(Q326124) directive of the European Union	Q326124	#0000e8	government, legal
+59.712524	66.352196	150	(Q6138528) political coalition	Q6138528	#29ffce	government, legal
+-72.32736	-1.8739077	82	(Q28147344) Dutch municipal coat of arms	Q28147344	#0060ff	government, legal
+104.55786	-63.506714	21	(Q132821) murder	Q132821	#0000bf	government, legal
+31.323051	-10.239992	364	(Q3917681) embassy	Q3917681	#9b0000	government, legal
+3.1236317	-90.020645	128	(Q41487) court	Q41487	#00dcfe	government, legal
+18.424751	15.58114	141	(Q178790) trade union	Q178790	#16ffe1	government, legal
+49.21193	-5.8093143	201	(Q15221623) bilateral relation	Q15221623	#9aff5d	government, legal
+4.581608	-63.79981	258	(Q15911314) association	Q15911314	#ffd000	government, legal
+-19.847963	-60.77865	346	(Q24333627) United States Senate election	Q24333627	#d60000	government, legal
+-0.76762843	-49.849358	345	(Q2618461) legislative election	Q2618461	#d60000	government, legal
+-5.6594343	51.07361	83	(Q157031) foundation	Q157031	#0060ff	government, legal
+-78.81201	-51.30282	215	(Q39825) census	Q39825	#baff3c	government, legal
+-29.80604	-41.74779	230	(Q15966540) local election	Q15966540	#dbff1c	government, legal
+4.0251904	-92.763565	128	(Q18146819) United States Supreme Court case, (Q19692072) United States Supreme Court decision	Q18146819, Q19692072	#00dcfe	government, legal
+77.42476	-62.304417	286	(Q4677783) Act of Parliament of the United Kingdom	Q4677783	#ff8900	government, legal
+-7.3618603	-66.49452	163	(Q192350) ministry	Q192350	#46ffb1	government, legal
+13.189462	29.994085	20	(Q6881511) enterprise	Q6881511	#0000bb	government, legal
+-7.3225207	-65.186386	163	(Q2659904) government organization	Q2659904	#46ffb1	government, legal
+-23.242224	-53.58411	61	(Q640506) cabinet	Q640506	#0024ff	government, legal
+-6.1409216	-52.664047	84	(Q15261477) gubernatorial election	Q15261477	#0064ff	government, legal
+11.585768	29.787825	20	(Q1589009) privately held company	Q1589009	#0000bb	government, legal
+61.56732	21.138403	259	(Q1338798) United States executive order	Q1338798	#ffcc00	government, legal
+-5.6148305	51.44256	83	(Q708676) charitable organization	Q708676	#0060ff	government, legal
+-5.824841	56.143684	271	(Q163740) nonprofit organization, (Q43229) organization	Q163740, Q43229	#ffae00	government, legal
+73.13238	-57.87536	34	(Q686822) bill	Q686822	#0000e8	government, legal
+14.947406	30.710556	20	(Q21980538) commercial organization	Q21980538	#0000bb	government, legal
+77.873535	-62.4924	286	(Q476068) Act of Congress in the United States	Q476068	#ff8900	government, legal
+-23.109932	-5.466005	18	(Q18845791) nan	Q18845791	#0000b6	government, legal
+70.895424	-57.902157	34	(Q2571972) decree	Q2571972	#0000e8	government, legal
+57.784492	63.949852	150	(Q1666019) pressure group	Q1666019	#29ffce	government, legal
+10.538871	29.606602	20	(Q167037) corporation	Q167037	#0000bb	government, legal
+-46.978703	16.482235	216	(Q877358) United Nations Security Council resolution	Q877358	#baff3c	government, legal
+-27.013582	-59.177376	61	(Q3508373) Syndicat Mixte	Q3508373	#0024ff	government, legal
+104.55112	-63.518795	21	(Q19902850) witch trial	Q19902850	#0000bf	government, legal
+-48.060146	6.2036386	125	(Q1006079) federal act	Q1006079	#00d4ff	government, legal
+-9.54306	-45.693264	290	(Q1057954) by-election	Q1057954	#ff7e00	government, legal
+8.411677	-31.266182	369	(Q18759100) baronetcy	Q18759100	#8d0000	government, legal
+70.305695	-130.48099	158	(Q33283984) Act of the Parliament of India	Q33283984	#3cffba	government, legal
+-9.004857	-43.25472	185	(Q335778) polling place	Q335778	#77ff80	government, legal
+-9.391027	-42.650826	185	(Q51591359) voting result	Q51591359	#77ff80	government, legal
+61.54123	20.921856	259	(Q7241458) presidential proclamation	Q7241458	#ffcc00	government, legal
+3.8140087	-92.15618	128	(Q19692072) United States Supreme Court decision, (Q2334719) legal case	Q19692072, Q2334719	#00dcfe	government, legal
+-47.3435	17.77991	216	(Q38647918) United Nations Treaty Series volume	Q38647918	#baff3c	government, legal
+78.10399	-63.950447	286	(Q6451276) Congressional Research Service report	Q6451276	#ff8900	government, legal
+-29.59159	-41.430435	230	(Q15280243) mayoral election	Q15280243	#dbff1c	government, legal
+-10.1677265	-41.134808	185	(Q19571328) electoral result	Q19571328	#77ff80	government, legal
+-26.777594	-4.0393076	18	(Q5650788) Szlachta coat of arms	Q5650788	#0000b6	government, legal
+-30.367607	-42.574142	230	(Q152450) municipal election	Q152450	#dbff1c	government, legal
+-24.972195	-59.684914	61	(Q64037785) county courthouse	Q64037785	#0024ff	government, legal
+50.329075	-46.115883	85	(Q1004391) public notice	Q1004391	#0068ff	government, legal
+61.91777	23.970049	259	(Q2061228) Executive Order of the President of Russia	Q2061228	#ffcc00	government, legal
+2.809881	-88.9501	128	(Q155076) juridical person	Q155076	#00dcfe	government, legal
+78.96594	-61.854794	286	(Q56731284) Act of the Parliament of Australia	Q56731284	#ff8900	government, legal
+42.24987	-105.52388	146	(Q20669447) public inquiry	Q20669447	#1fffd7	government, legal
+-45.267464	7.237996	125	(Q6453643) decree law	Q6453643	#00d4ff	government, legal
+68.316696	-71.45142	285	(Q91586285) Act of the Oireachtas	Q91586285	#ff8900	government, legal
+67.18706	-71.52062	285	(Q100532807) Irish Statutory Instrument	Q100532807	#ff8900	government, legal
+65.25669	-71.337395	285	(Q7604686) UK Statutory Instrument	Q7604686	#ff8900	government, legal
+41.068783	-106.30165	146	(Q98457443) inquiry report	Q98457443	#1fffd7	government, legal
+-25.28072	-1.9653869	18	(Q18845793) Judicial Yuan Interpretations	Q18845793	#0000b6	government, legal
+34.273476	-86.473854	191	(Q452237) motion	Q452237	#83ff73	government, legal
+71.9384	-59.081383	34	(Q2795484) implementing regulation	Q2795484	#0000e8	government, legal
+-67.10661	-25.735674	66	(Q7137435) parish council	Q7137435	#0034ff	government, legal
+33.778404	-87.529465	191	(Q96739634) individual motion	Q96739634	#83ff73	government, legal
+-7.3078346	56.055138	271	(Q163740) nonprofit organization, (Q5774403) historical society	Q163740, Q5774403	#ffae00	government, legal
+4.4004536	-93.799355	128	(Q96482904) decision of the Supreme Court of Sweden	Q96482904	#00dcfe	government, legal
+39.449078	-97.98551	255	(Q1505023) Interpellation	Q1505023	#ffd700	government, legal
+65.39559	-71.645134	285	- , (Q7604686) UK Statutory Instrument	Q7604686	#ff8900	government, legal
+64.80798	-70.30109	285	(Q7604693) Statutory Rules of Northern Ireland	Q7604693	#ff8900	government, legal
+69.64015	-59.738853	34	(Q7437991) Scottish Statutory Instrument	Q7437991	#0000e8	government, legal
+73.57209	-60.296677	34	(Q7604692) Statutory Rules and Orders	Q7604692	#0000e8	government, legal
+69.13887	-76.40884	109	(Q101073445) New Zealand Legislative Instrument	Q101073445	#00a8ff	government, legal
+69.13636	-76.4275	109	(Q101073581) New Zealand Statutory Regulation	Q101073581	#00a8ff	government, legal
+-43.719944	7.518428	125	(Q98467717) record of meeting of the Riksdag	Q98467717	#00d4ff	government, legal
+39.045277	-97.563034	255	(Q99045339) written question	Q99045339	#ffd700	government, legal
+41.41514	-106.41142	146	(Q98491862) committee directives	Q98491862	#1fffd7	government, legal
+-15.821288	-0.025017772	303	(Q97695021) multi-party motion	Q97695021	#ff5d00	government, legal
+33.219006	-88.743454	191	(Q97695005) committee group motion	Q97695005	#83ff73	government, legal
+33.248013	-88.67545	191	(Q97695011) party motion	Q97695011	#83ff73	government, legal
+-9.089892	33.004307	186	(Q5) human	Q5	#7aff7d	human
+85.0528	-20.574112	110	(Q171318) kinship	Q171318	#00acff	human
+-105.44237	29.98035	359	(Q12737077) occupation	Q12737077	#ad0000	human
+23.161825	-96.929535	86	(Q41710) ethnic group	Q41710	#0068ff	human
+-31.33561	-149.18077	212	(Q101352) family name	Q101352	#b4ff43	human
+-6.6572094	-63.905006	163	(Q4164871) position	Q4164871	#46ffb1	human
+-130.33939	43.53413	253	(Q28640) profession	Q28640	#ffdb00	human
+-25.235313	30.519598	197	(Q13417114) noble family	Q13417114	#90ff66	human
+-43.345097	-99.15346	219	(Q11879590) female given name	Q11879590	#c1ff36	human
+29.309483	6.8772283	300	(Q431289) brand	Q431289	#ff6400	human
+-53.835056	-71.77096	143	(Q16334295) group of humans	Q16334295	#19ffde	human
+61.39833	-18.116621	37	(Q17524420) aspect of history	Q17524420	#0000f1	human
+-43.828007	-97.772095	219	(Q12308941) male given name	Q12308941	#c1ff36	human
+-43.012516	-100.12389	219	(Q3409032) unisex given name	Q3409032	#c1ff36	human
+49.338787	-5.842434	201	(Q10648343) duo	Q10648343	#9aff5d	human
+-30.109337	-149.42633	212	(Q101352) family name, (Q1093580) Han surname	Q101352, Q1093580	#b4ff43	human
+-32.30359	-149.37375	212	(Q101352) family name,  -	Q101352	#b4ff43	human
+85.50806	-19.585865	110	(Q8436) family	Q8436	#00acff	human
+-43.948586	-97.4523	219	(Q12308941) male given name, (Q1243157) double name	Q12308941, Q1243157	#c1ff36	human
+39.623466	-1.395285	1	(Q14660) flag	Q14660	#000080	human
+-30.46101	-150.9873	212	(Q202444) given name	Q202444	#b4ff43	human
+-32.308388	-149.11577	212	(Q101352) family name,  -	Q101352	#b4ff43	human
+-37.560722	28.990986	88	(Q386724) work	Q386724	#0070ff	human
+60.32893	-19.349976	37	(Q166118) archives	Q166118	#0000f1	human
+-85.67992	38.077026	74	(Q2065736) cultural property	Q2065736	#0048ff	human
+-33.866154	-149.36848	212	(Q101352) family name, (Q66480858) affixed family name	Q101352, Q66480858	#b4ff43	human
+-25.206665	29.554657	197	(Q27062351) Polish noble family	Q27062351	#90ff66	human
+24.462177	-96.19137	86	(Q211503) clan	Q211503	#0068ff	human
+-21.099302	-12.275053	267	(Q3760158) nomen	Q3760158	#ffb900	human
+-84.93727	38.09916	74	(Q2065736) cultural property, (Q39614) cemetery	Q2065736, Q39614	#0048ff	human
+-53.824833	117.71851	79	(Q358) heritage site	Q358	#0058ff	human
+-30.897446	-147.0837	212	(Q101352) family name, (Q29042997) double surname	Q101352, Q29042997	#b4ff43	human
+-128.14297	-15.123073	92	(Q699) fairy tale	Q699	#0078ff	human
+73.3301	127.65661	169	(Q88865447) undifferentiated kana surname	Q88865447	#53ffa4	human
+70.279816	-15.110677	127	(Q2434238) heritage	Q2434238	#00d8ff	human
+60.967693	-19.125132	37	(Q5774403) historical society	Q5774403	#0000f1	human
+58.256466	-120.26029	293	(Q83828) ethnic group in Indonesia	Q83828	#ff7700	human
+17.17833	108.59846	111	(Q40558) smithy	Q40558	#00acff	human
+102.61616	-92.63286	68	(Q309481) obituary	Q309481	#0038ff	human
+73.3304	127.659485	169	(Q88865432) undifferentiated kanji surname	Q88865432	#53ffa4	human
+-84.96471	33.922466	341	(Q2065736) cultural property, (Q654476) khachkar	Q2065736, Q654476	#e40000	human
+17.505548	-98.286804	209	(Q1288568) modern language, (Q34770) language	Q1288568, Q34770	#adff49	human language
+24.760365	-96.02254	86	(Q25295) language family	Q25295	#0068ff	human language
+6.1310606	44.835926	206	(Q3062294) Latin phrase	Q3062294	#a7ff50	human language
+18.173008	-99.8355	209	(Q33384) dialect	Q33384	#adff49	human language
+39.67566	5.4551406	183	(Q1969448) term	Q1969448	#73ff83	human language
+17.646318	-98.58061	209	(Q34770) language	Q34770	#adff49	human language
+15.881034	-139.2786	198	(Q53764738) Chinese character, (Q53764782) kanji character	Q53764738, Q53764782	#94ff63	human language
+-40.946392	3.2118635	297	(Q66050442) conjugation table	Q66050442	#ff6c00	human language
+-40.89617	3.1672354	297	(Q66050470) conjugation table for French verb	Q66050470	#ff6c00	human language
+46.727646	124.883194	312	(Q65943) theorem	Q65943	#ff4700	math
+131.66628	-60.41786	175	- , (Q21199) natural number,  -	Q21199	#60ff97	math
+130.84941	-60.289066	175	- , (Q21199) natural number, (Q49008) prime number	Q21199, Q49008	#60ff97	math
+131.66733	-60.418755	175	- , (Q21199) natural number,  -	Q21199	#60ff97	math
+-29.281092	-142.0851	11	(Q49008) prime number	Q49008	#00009f	math
+106.49953	103.03335	177	(Q1014491) prime knot	Q1014491	#66ff90	math
+-28.80661	1.1188363	238	(Q28912853) fraction	Q28912853	#ebff0c	math
+36.087902	18.457338	235	(Q11032) newspaper	Q11032	#e4ff13	media
+121.14124	-79.30293	308	(Q5398426) television series	Q5398426	#ff5200	media
+56.308346	-56.92702	174	(Q41298) magazine	Q41298	#60ff97	media
+-105.34085	-113.51346	69	(Q25379) play	Q25379	#003cff	media
+123.41491	-76.08711	157	(Q1616075) television station	Q1616075	#39ffbe	media
+93.90426	-87.10151	335	(Q202866) animated film	Q202866	#f60b00	media
+12.043351	-78.03456	166	(Q63952888) anime television series	Q63952888	#4dffaa	media
+123.43666	-75.98899	157	(Q2001305) television channel	Q2001305	#39ffbe	media
+-2.9970021	128.9109	257	(Q14350) radio station	Q14350	#ffd300	media
+122.75105	-79.717255	308	(Q15416) television program	Q15416	#ff5200	media
+78.26627	-87.35433	205	(Q21198342) manga series	Q21198342	#a4ff53	media
+93.874115	-87.08666	335	(Q581714) animated series	Q581714	#f60b00	media
+101.19376	-89.62886	68	(Q17517379) animated short film	Q17517379	#0038ff	media
+122.280106	-79.83619	308	(Q3464665) television series season	Q3464665	#ff5200	media
+124.077705	-80.84002	308	(Q506240) television film	Q506240	#ff5200	media
+47.40683	-45.26257	302	(Q861911) speech	Q861911	#ff6000	media
+101.305824	-86.74438	68	(Q24862) short film	Q24862	#0038ff	media
+113.38667	-81.45979	40	(Q21191270) television series episode	Q21191270	#0000fa	media
+35.44698	28.27658	56	(Q191067) article	Q191067	#0018ff	media
+113.398186	-81.88856	40	(Q1259759) miniseries	Q1259759	#0000fa	media
+151.25508	19.780655	126	(Q43099869) dance production	Q43099869	#00d8ff	media
+149.54999	19.34058	126	(Q7777570) theatrical production	Q7777570	#00d8ff	media
+101.31742	-86.577576	68	(Q20667187) silent short film	Q20667187	#0038ff	media
+-4.0668545	128.66678	257	(Q15265344) broadcaster	Q15265344	#ffd300	media
+-2.4285214	129.06078	257	(Q1555508) radio program	Q1555508	#ffd300	media
+123.15161	-82.78953	308	(Q1983062) episode	Q1983062	#ff5200	media
+-7.9260554	3.4100971	78	(Q2668072) collection	Q2668072	#0054ff	media
+123.797775	-81.6657	308	(Q1366112) television drama	Q1366112	#ff5200	media
+12.14278	148.3589	168	(Q1371849) filmography	Q1371849	#50ffa7	media
+-25.910269	-133.40022	241	(Q2635894) audio drama	Q2635894	#f1fc06	media
+32.897305	120.34551	117	(Q18593264) item of collection or exhibition	Q18593264	#00c0ff	media
+36.058548	18.775051	235	(Q5707594) news article	Q5707594	#e4ff13	media
+12.686644	-78.70376	166	(Q399811) Japanese television drama	Q399811	#4dffaa	media
+149.14592	19.235764	126	(Q47467768) operatic production	Q47467768	#00d8ff	media
+32.827095	122.01446	117	(Q18593264) item of collection or exhibition, (Q571) book	Q18593264, Q571	#00c0ff	media
+150.42992	19.567251	126	(Q43099500) performing arts production	Q43099500	#00d8ff	media
+-8.079175	2.9554267	78	(Q60474998) digital collection	Q60474998	#0054ff	media
+103.85599	-90.87514	68	(Q88163834) bulletin	Q88163834	#0038ff	media
+32.099827	118.86577	117	(Q18593264) item of collection or exhibition, (Q18965) floor plan	Q18593264, Q18965	#00c0ff	media
+57.659416	-56.729275	174	(Q91257459) PM20 country/subject folder	Q91257459	#60ff97	media
+57.318848	-56.777706	174	(Q92707903) PM20 subject category	Q92707903	#60ff97	media
+56.05377	2.6301851	99	(Q125191) photograph, (Q4364339) plaque	Q125191, Q4364339	#008cff	media
+34.510216	118.33908	117	(Q18593264) item of collection or exhibition, (Q29382731) metal artwork	Q18593264, Q29382731	#00c0ff	media
+-74.273285	44.091087	45	(Q13464614) ceramics, (Q18593264) item of collection or exhibition	Q13464614, Q18593264	#0000ff	media
+32.75071	123.170654	117	(Q18593264) item of collection or exhibition, (Q28823) textile	Q18593264, Q28823	#00c0ff	media
+32.565628	120.40702	117	(Q18593264) item of collection or exhibition,  -	Q18593264	#00c0ff	media
+34.331673	120.78226	117	(Q18593264) item of collection or exhibition, (Q79509036) portfolio	Q18593264, Q79509036	#00c0ff	media
+141.0947	-33.32633	156	(Q178561) battle	Q178561	#36ffc1	military
+-54.66567	40.37523	256	(Q188055) siege	Q188055	#ffd300	military
+138.72258	-34.852283	156	(Q56019) military rank	Q56019	#36ffc1	military
+-47.51677	43.57792	81	(Q1785071) fort	Q1785071	#005cff	military
+139.21628	-34.677586	156	(Q176799) military unit	Q176799	#36ffc1	military
+140.44948	-33.837593	156	(Q645883) military operation	Q645883	#36ffc1	military
+-56.083786	41.13518	256	(Q152081) concentration camp	Q152081	#ffd300	military
+139.35435	-43.534126	363	(Q169534) division	Q169534	#9f0000	military
+140.953	-47.314224	73	(Q102356) brigade	Q102356	#0044ff	military
+140.63528	-43.60961	363	(Q679165) squadron	Q679165	#9f0000	military
+138.84703	-43.46643	363	(Q52371) regiment	Q52371	#9f0000	military
+-17.153034	137.02132	162	(Q11229656) tank landing ship	Q11229656	#43ffb4	military
+137.4906	-34.003414	156	(Q575759) war memorial	Q575759	#36ffc1	military
+140.95058	-47.271423	73	(Q6382533) battalion	Q6382533	#0044ff	military
+-47.8462	43.544804	81	(Q57821) fortification	Q57821	#005cff	military
+138.37317	-36.04649	156	(Q245016) military base	Q245016	#36ffc1	military
+-39.24288	149.50687	52	(Q131263) barracks	Q131263	#000cff	military
+137.68257	-43.278095	363	(Q10358588) infantry regiment	Q10358588	#9f0000	military
+90.167366	43.902885	64	(Q210112) nuclear weapons test	Q210112	#002cff	military
+61.844063	24.05379	259	(Q11242653) Supreme Commander for the Allied Powers Instruction Note	Q11242653	#ffcc00	military
+5.4527087	93.73061	171	(Q61927259) Holocaust train journey	Q61927259	#5aff9d	military
+-22.363056	1.4469565	317	(Q83554028) Gendarmerie barracks	Q83554028	#ff3b00	military
+-53.52026	40.874973	256	(Q1388729) picket	Q1388729	#ffd300	military
+-27.243704	-134.55562	241	(Q7366) song	Q7366	#f1fc06	music
+-14.314644	-110.146034	316	(Q188451) music genre	Q188451	#ff3b00	music
+-20.043703	-107.844795	42	(Q215380) musical group	Q215380	#0000ff	music
+-26.88948	-134.39862	241	(Q207628) musical composition, (Q7366) song	Q207628, Q7366	#f1fc06	music
+-13.6735525	-107.94544	316	(Q5741069) rock group	Q5741069	#ff3b00	music
+-13.068367	-122.46221	105	(Q482994) album	Q482994	#009cff	music
+-11.582937	-124.0408	105	(Q18127) record label	Q18127	#009cff	music
+-14.1274805	-123.14947	105	(Q208569) studio album	Q208569	#009cff	music
+-27.493694	-136.97195	241	(Q134556) single	Q134556	#f1fc06	music
+-16.387619	-111.15266	316	(Q222910) compilation album	Q222910	#ff3b00	music
+-13.018671	-121.50258	105	(Q273057) discography	Q273057	#009cff	music
+-20.417967	-107.62945	42	(Q9212979) musical duo	Q9212979	#0000ff	music
+-112.53148	-104.991295	250	(Q1344) opera	Q1344	#ffe200	music
+-27.206717	-135.53412	241	(Q134556) single, (Q7366) song	Q134556, Q7366	#f1fc06	music
+-17.4298	-110.206474	316	(Q209939) live album	Q209939	#ff3b00	music
+-38.888233	-123.35726	36	(Q207628) musical composition	Q207628	#0000ed	music
+-112.52301	-104.99934	250	(Q2743) musical theatre	Q2743	#ffe200	music
+-40.079456	-124.00681	36	(Q178122) aria	Q178122	#0000ed	music
+-35.287743	-114.72901	232	(Q943929) traditional song	Q943929	#deff19	music
+-33.364666	-116.63273	232	(Q169930) extended play	Q169930	#deff19	music
+-17.491669	-108.01362	316	(Q1573906) concert tour	Q1573906	#ff3b00	music
+-18.728436	-109.94082	316	(Q20089094) live video album	Q20089094	#ff3b00	music
+10.945212	147.64854	168	(Q1762059) film production company	Q1762059	#50ffa7	music
+-24.720615	-105.765785	42	(Q42998) orchestra	Q42998	#0000ff	music
+-39.044693	-123.43733	36	(Q2088357) musical ensemble	Q2088357	#0000ed	music
+-121.350876	-55.21956	154	(Q55850593) music track with vocals	Q55850593	#33ffc4	music
+-121.4728	-54.69816	154	(Q131186) choir	Q131186	#33ffc4	music
+-18.183683	-108.97368	316	(Q182832) concert	Q182832	#ff3b00	music
+-30.032444	-144.40233	11	(Q1141470) double act	Q1141470	#00009f	music
+-1.3492974	129.3105	257	(Q24634210) podcast	Q24634210	#ffd300	music
+-9.594013	-124.12825	105	(Q59248059) singles discography	Q59248059	#009cff	music
+-11.728788	-124.056526	105	(Q7302866) audio track	Q7302866	#009cff	music
+-11.616105	-125.56954	105	(Q6128115) 7'' single	Q6128115	#009cff	music
+-24.762236	-105.744514	42	(Q1444) organ	Q1444	#0000ff	music
+-34.18459	-115.85587	232	(Q639197) instrumental music	Q639197	#deff19	music
+-34.55995	-115.47061	232	(Q55850643) music track without vocals	Q55850643	#deff19	music
+35.792164	-4.8256283	1	(Q81564326) album contribution, (Q838948) work of art	Q81564326, Q838948	#000080	music
+-7.6553316	1.8188912	78	(Q20741022) digital camera model	Q20741022	#0054ff	physical object
+-73.23954	45.623604	45	(Q220659) archaeological artifact	Q220659	#0000ff	physical object
+16.772589	38.949432	266	(Q41207) coin	Q41207	#ffb900	physical object
+-29.32834	-98.94459	211	(Q101401) bell	Q101401	#b1ff46	physical object
+74.73587	-5.332815	194	(Q721747) commemorative plaque	Q721747	#8aff6d	physical object
+146.20918	39.874664	77	(Q191851) vase	Q191851	#0050ff	physical object
+-94.81917	-42.847317	75	(Q151771) candlestick	Q151771	#004cff	physical object
+30.915327	120.608116	117	(Q19515368) dossier	Q19515368	#00c0ff	physical object
+-73.48391	45.259697	45	(Q18593264) item of collection or exhibition, (Q220659) archaeological artifact	Q18593264, Q220659	#0000ff	physical object
+16.43277	38.96331	266	(Q220659) archaeological artifact, (Q41207) coin	Q220659, Q41207	#ffb900	physical object
+-94.98004	-26.459858	199	(Q215172) chasuble	Q215172	#97ff60	physical object
+-71.85213	45.681038	45	(Q11086567) fragment, (Q220659) archaeological artifact	Q11086567, Q220659	#0000ff	physical object
+-2.1717913	8.750589	260	(Q1497364) building complex	Q1497364	#ffcc00	public facility, transportation
+36.62545	53.60568	50	(Q79007) street	Q79007	#0008ff	public facility, transportation
+35.838924	59.206165	324	(Q174782) square	Q174782	#ff2900	public facility, transportation
+13.088883	-34.966354	243	(Q2651004) palazzo	Q2651004	#f8f500	public facility, transportation
+-48.027336	-7.3788757	59	(Q39614) cemetery	Q39614	#0020ff	public facility, transportation
+-101.13706	-113.520256	69	(Q641226) arena	Q641226	#003cff	public facility, transportation
+32.743736	-9.81849	364	(Q207694) art museum	Q207694	#9b0000	public facility, transportation
+68.330414	74.21626	57	(Q28564) public library	Q28564	#001cff	public facility, transportation
+30.924158	51.612595	310	(Q54114) boulevard	Q54114	#ff4a00	public facility, transportation
+51.09343	132.08835	134	(Q46970) airline	Q46970	#06ecf1	public facility, transportation
+-56.426506	41.319206	256	(Q40357) prison	Q40357	#ffd300	public facility, transportation
+74.7689	-37.73587	292	(Q43501) zoo	Q43501	#ff7a00	public facility, transportation
+-108.540955	65.62751	43	(Q131734) brewery	Q131734	#0000ff	public facility, transportation
+-48.70188	-6.762125	59	(Q162875) mausoleum	Q162875	#0020ff	public facility, transportation
+63.519714	7.7987914	319	(Q39715) lighthouse	Q39715	#ff3400	public facility, transportation
+-83.34513	38.422203	74	(Q33506) museum	Q33506	#0048ff	public facility, transportation
+50.45746	145.8041	24	(Q1248784) airport, (Q94993988) commercial traffic aerodrome	Q1248784, Q94993988	#0000c8	public facility, transportation
+6.9893284	78.96437	30	(Q83620) thoroughfare	Q83620	#0000da	public facility, transportation
+-110.9855	31.29844	96	(Q13226383) facility	Q13226383	#0084ff	public facility, transportation
+-21.19857	20.863115	276	(Q15081032) historical motorcycle manufacturer	Q15081032	#ffa300	public facility, transportation
+-107.89869	61.85829	43	(Q11707) restaurant	Q11707	#0000ff	public facility, transportation
+29.878304	79.32	91	(Q55488) railway station	Q55488	#0078ff	public facility, transportation
+51.34509	145.51323	24	(Q1248784) airport	Q1248784	#0000c8	public facility, transportation
+10.354435	90.79462	62	(Q249556) railway company	Q249556	#0028ff	public facility, transportation
+62.05038	-19.872421	37	(Q1081138) historic site	Q1081138	#0000f1	public facility, transportation
+5.0579867	82.62876	284	(Q15145593) tram line	Q15145593	#ff8d00	public facility, transportation
+4.065899	92.772285	171	(Q22808403) station located underground, (Q928830) metro station	Q22808403, Q928830	#5aff9d	public facility, transportation
+2.463207	79.39915	284	(Q12280) bridge	Q12280	#ff8d00	public facility, transportation
+-16.560266	135.78757	162	(Q44782) port	Q44782	#43ffb4	public facility, transportation
+99.81158	-93.73573	68	(Q27686) hotel	Q27686	#0038ff	public facility, transportation
+25.415073	-54.996128	348	(Q190107) weather station	Q190107	#cd0000	public facility, transportation
+-2.1877515	-164.60605	49	(Q16917) hospital	Q16917	#0004ff	public facility, transportation
+16.065012	108.76085	111	(Q6558431) coal-fired power station	Q6558431	#00acff	public facility, transportation
+46.68972	53.75915	203	(Q12518) tower	Q12518	#9dff5a	public facility, transportation
+17.426105	136.66725	366	(Q41253) movie theater	Q41253	#960000	public facility, transportation
+30.036276	79.635826	91	(Q22808404) station located on surface, (Q55488) railway station	Q22808404, Q55488	#0078ff	public facility, transportation
+62.297314	69.36514	358	(Q7075) library	Q7075	#ad0000	public facility, transportation
+-105.46373	29.983706	359	(Q17350442) venue	Q17350442	#ad0000	public facility, transportation
+35.223232	53.552776	50	(Q22746) urban park	Q22746	#0008ff	public facility, transportation
+6.809195	86.3636	360	(Q15079663) rapid transit railway line	Q15079663	#a80000	public facility, transportation
+-1.4330782	-163.20238	49	(Q16917) hospital, (Q4287745) medical organization	Q16917, Q4287745	#0004ff	public facility, transportation
+75.41427	-6.675704	194	(Q4989906) monument	Q4989906	#8aff6d	public facility, transportation
+-136.2647	24.995882	295	(Q856234) academic library	Q856234	#ff7300	public facility, transportation
+51.019836	131.29892	134	(Q740752) transport company	Q740752	#06ecf1	public facility, transportation
+143.83127	38.531406	77	(Q1107656) garden	Q1107656	#0050ff	public facility, transportation
+68.66024	75.732834	57	(Q2326815) municipal library	Q2326815	#001cff	public facility, transportation
+13.067556	91.82532	62	(Q811704) rolling stock class	Q811704	#0028ff	public facility, transportation
+10.033855	90.66794	62	(Q728937) railway line	Q728937	#0028ff	public facility, transportation
+2.6643565	93.49486	171	(Q2354973) road tunnel	Q2354973	#5aff9d	public facility, transportation
+18.708506	56.542027	101	(Q4663385) former railway station	Q4663385	#0094ff	public facility, transportation
+5.514157	85.65802	360	(Q928830) metro station	Q928830	#a80000	public facility, transportation
+29.866611	32.536015	272	(Q200764) bookstore	Q200764	#ffab00	public facility, transportation
+2.2345028	119.61689	231	(Q185187) watermill	Q185187	#deff19	public facility, transportation
+4.68156	86.39291	360	(Q861951) police station	Q861951	#a80000	public facility, transportation
+20.419577	19.620836	141	(Q1021645) office building	Q1021645	#16ffe1	public facility, transportation
+-58.168995	-9.75529	301	(Q846659) Jewish cemetery	Q846659	#ff6000	public facility, transportation
+-8.417058	128.02617	32	(Q15911738) hydroelectric power station	Q15911738	#0000df	public facility, transportation
+-74.79612	-91.48374	187	(Q55043) gymnasium	Q55043	#7dff7a	public facility, transportation
+30.5603	80.82404	91	(Q757292) border checkpoint	Q757292	#0078ff	public facility, transportation
+29.301676	32.978443	272	(Q11315) shopping center	Q11315	#ffab00	public facility, transportation
+-118.461266	-12.380544	279	(Q6498663) fire department	Q6498663	#ff9c00	public facility, transportation
+2.8901393	96.14316	171	(Q44377) tunnel	Q44377	#5aff9d	public facility, transportation
+2.8266757	80.27858	284	(Q1210334) railway bridge	Q1210334	#ff8d00	public facility, transportation
+-47.723366	-7.05539	59	(Q381885) tomb	Q381885	#0020ff	public facility, transportation
+63.72837	-13.284447	305	(Q3395377) ancient monument	Q3395377	#ff5900	public facility, transportation
+18.493097	16.49763	141	(Q83405) factory	Q83405	#16ffe1	public facility, transportation
+2.2425838	119.61595	231	(Q38720) windmill	Q38720	#deff19	public facility, transportation
+-19.734524	-58.876236	346	(Q1788582) state highway	Q1788582	#d60000	public facility, transportation
+144.28458	38.78695	77	(Q167346) botanical garden	Q167346	#0050ff	public facility, transportation
+-29.329227	-98.944305	211	(Q200334) bell tower	Q200334	#b1ff46	public facility, transportation
+3.3443573	82.82598	284	(Q22667) railway	Q22667	#ff8d00	public facility, transportation
+4.3398485	82.48883	284	(Q15640053) tram system	Q15640053	#ff8d00	public facility, transportation
+6.0211163	78.261375	30	(Q537127) road bridge	Q537127	#0000da	public facility, transportation
+6.2044325	82.675354	284	(Q15141321) train service	Q15141321	#ff8d00	public facility, transportation
+6.379586	5.251905	132	(Q11755880) residential building	Q11755880	#02e8f4	public facility, transportation
+-1.2699425	-162.83034	49	(Q4287745) medical organization	Q4287745	#0004ff	public facility, transportation
+18.050045	38.91452	266	(Q18761864) bank building	Q18761864	#ffb900	public facility, transportation
+35.135315	-9.352139	364	(Q1007870) art gallery	Q1007870	#9b0000	public facility, transportation
+-96.67022	-7.452529	6	(Q16823155) Schloss	Q16823155	#000092	public facility, transportation
+-49.77747	-6.323879	59	(Q173387) grave	Q173387	#0020ff	public facility, transportation
+75.55682	-6.9690027	194	(Q5003624) memorial	Q5003624	#8aff6d	public facility, transportation
+36.705193	-10.73243	364	(Q464980) exhibition	Q464980	#9b0000	public facility, transportation
+4.502361	-31.22782	313	(Q918230) Roman villa	Q918230	#ff4300	public facility, transportation
+62.149906	69.18281	358	(Q28564) public library, (Q7075) library	Q28564, Q7075	#ad0000	public facility, transportation
+-108.40875	64.84568	43	(Q212198) pub	Q212198	#0000ff	public facility, transportation
+35.83973	59.19475	324	(Q174782) square, (Q79007) street	Q174782, Q79007	#ff2900	public facility, transportation
+-75.31017	-93.57585	187	(Q56351315) Japanese upper secondary school	Q56351315	#7dff7a	public facility, transportation
+16.086243	52.737274	101	(Q16917) hospital, (Q64578911) former hospital	Q16917, Q64578911	#0094ff	public facility, transportation
+31.881462	73.64888	91	(Q494829) bus station	Q494829	#0078ff	public facility, transportation
+51.322933	145.88628	24	(Q1248784) airport, (Q62447) aerodrome	Q1248784, Q62447	#0000c8	public facility, transportation
+-4.302929	-12.132746	170	(Q35054) post office	Q35054	#56ffa0	public facility, transportation
+-32.53985	-45.75729	333	(Q604177) municipal archive	Q604177	#ff1300	public facility, transportation
+27.839867	77.43339	91	(Q12819564) station	Q12819564	#0078ff	public facility, transportation
+-23.255302	-21.94148	200	(Q44494) mill	Q44494	#97ff60	public facility, transportation
+3.9841113	93.36825	171	(Q1311958) railway tunnel	Q1311958	#5aff9d	public facility, transportation
+-9.67451	128.08661	32	(Q274153) water tower	Q274153	#0000df	public facility, transportation
+50.21906	128.51875	312	(Q3240003) bus route	Q3240003	#ff4700	public facility, transportation
+-108.08133	62.956757	43	(Q256020) inn	Q256020	#0000ff	public facility, transportation
+48.799095	-88.29979	247	(Q13107184) pharmacy	Q13107184	#ffea00	public facility, transportation
+-37.7835	146.28758	52	(Q114768) granary	Q114768	#000cff	public facility, transportation
+60.74739	67.584404	358	(Q26271642) library network	Q26271642	#ad0000	public facility, transportation
+54.431984	87.58697	107	(Q489357) farmhouse	Q489357	#00a4ff	public facility, transportation
+29.324427	50.951614	310	(Q18019452) A road	Q18019452	#ff4a00	public facility, transportation
+29.369352	77.01982	91	(Q2175765) tram stop	Q2175765	#0078ff	public facility, transportation
+-79.47962	-93.71562	187	(Q19855165) rural school, (Q64062731) higher secondary school,  -	Q19855165, Q64062731	#7dff7a	public facility, transportation
+-2.473162	73.11667	133	(Q277760) gatehouse	Q277760	#06ecf1	public facility, transportation
+-66.8154	-48.171284	246	(Q1251403) alleyway	Q1251403	#feed00	public facility, transportation
+-4.502904	-10.507861	170	(Q61443650) sub post office	Q61443650	#56ffa0	public facility, transportation
+-4.502453	-10.823754	170	(Q61443690) branch post office	Q61443690	#56ffa0	public facility, transportation
+-65.9732	-121.400055	184	- , (Q67388747) urban school, (Q9842) primary school	Q67388747, Q9842	#73ff83	public facility, transportation
+-66.64254	-119.41329	184	(Q19855165) rural school,  - , (Q9842) primary school	Q19855165, Q9842	#73ff83	public facility, transportation
+-79.51731	-93.83777	187	(Q159334) secondary school, (Q19855165) rural school,  -	Q159334, Q19855165	#7dff7a	public facility, transportation
+-78.19995	-99.20523	137	(Q19855165) rural school, (Q64063386) upper primary school,  -	Q19855165, Q64063386	#0cf4eb	public facility, transportation
+50.871174	128.9368	312	(Q10438042) bus company	Q10438042	#ff4700	public facility, transportation
+-119.47077	-13.489336	279	(Q1195942) fire station	Q1195942	#ff9c00	public facility, transportation
+77.890915	-44.163357	71	(Q948878) dovecote	Q948878	#0040ff	public facility, transportation
+29.10335	77.85035	91	(Q55678) railway halt	Q55678	#0078ff	public facility, transportation
+-79.67756	64.211105	221	(Q2593777) grave field	Q2593777	#c7ff30	public facility, transportation
+38.332863	53.902023	50	(Q11755959) multi-storey urban building	Q11755959	#0008ff	public facility, transportation
+-73.01857	-81.491196	48	(Q10511371) gymnasieskola	Q10511371	#0000ff	public facility, transportation
+36.51217	52.202797	50	(Q22652) green space	Q22652	#0008ff	public facility, transportation
+6.5976877	76.71436	30	(Q2376564) interchange	Q2376564	#0000da	public facility, transportation
+113.112724	-80.22231	40	(Q12731) cul-de-sac	Q12731	#0000fa	public facility, transportation
+-45.910362	-87.05811	44	(Q69106538) Chinese national-type primary school	Q69106538	#0000ff	public facility, transportation
+-118.745155	-12.691687	279	(Q748998) fire lookout tower	Q748998	#ff9c00	public facility, transportation
+-44.547993	-84.98823	357	(Q3803834) istituto tecnico	Q3803834	#b20000	public facility, transportation
+-5.565007	128.37283	257	(Q174814) electrical substation	Q174814	#ffd300	public facility, transportation
+-37.677017	146.3165	52	(Q1362225) warehouse	Q1362225	#000cff	public facility, transportation
+-96.82876	5.9819636	129	(Q5526694) Gasthaus	Q5526694	#00e0fb	public facility, transportation
+-80.49319	67.80674	3	(Q203443) tombstone	Q203443	#000089	public facility, transportation
+5.9596195	-36.808765	46	(Q101659) dolmen	Q101659	#0000ff	public facility, transportation
+-87.68518	38.94028	74	(Q1516079) cultural heritage ensemble	Q1516079	#0048ff	public facility, transportation
+69.501945	73.46205	57	(Q12317349) main library, (Q28564) public library	Q12317349, Q28564	#001cff	public facility, transportation
+-45.508217	-86.57403	44	(Q3803808) nan	Q3803808	#0000ff	public facility, transportation
+31.896059	73.63144	91	(Q953806) bus stop	Q953806	#0078ff	public facility, transportation
+-123.29953	-35.808018	327	(Q19691007) institutional complex	Q19691007	#ff2200	public facility, transportation
+23.67768	69.25687	277	(Q221722) bike path	Q221722	#ff9f00	public facility, transportation
+-53.807327	-90.43288	368	(Q5358913) elementary school in Japan	Q5358913	#920000	public facility, transportation
+-124.320496	23.803543	124	(Q28935764) special school	Q28935764	#00d0ff	public facility, transportation
+21.759796	139.89633	47	(Q19860854) destroyed building or structure, (Q41253) movie theater	Q19860854, Q41253	#0000ff	public facility, transportation
+-71.25299	-1.5524505	82	(Q702081) water board in the Netherlands	Q702081	#0060ff	public facility, transportation
+-99.165436	-54.552895	152	(Q1426271) route nationale	Q1426271	#30ffc7	public facility, transportation
+-2.9349747	-165.43002	49	(Q16917) hospital, (Q7257872) public hospital	Q16917, Q7257872	#0004ff	public facility, transportation
+8.146538	79.0224	30	(Q5004679) path	Q5004679	#0000da	public facility, transportation
+18.290653	137.5447	366	(Q41253) movie theater, (Q786922) drive-in theater	Q41253, Q786922	#960000	public facility, transportation
+-75.543076	65.976524	221	(Q26703203) stumbling stone	Q26703203	#c7ff30	public facility, transportation
+19.296251	-55.669937	294	(Q3831968) liceo scientifico	Q3831968	#ff7300	public facility, transportation
+21.750616	139.8915	47	(Q19860854) destroyed building or structure, (Q41253) movie theater, (Q786922) drive-in theater	Q19860854, Q41253, Q786922	#0000ff	public facility, transportation
+-98.32563	-53.3607	152	(Q19796778) route départementale	Q19796778	#30ffc7	public facility, transportation
+70.22658	72.697266	57	(Q5728070) biblioteca popular	Q5728070	#001cff	public facility, transportation
+28.924788	-50.64362	348	(Q385994) special library	Q385994	#cd0000	public facility, transportation
+68.64061	74.464966	57	(Q11396180) library branch, (Q28564) public library	Q11396180, Q28564	#001cff	public facility, transportation
+-0.5267846	-164.57219	49	(Q569500) community health center	Q569500	#0004ff	public facility, transportation
+-75.86087	63.99681	221	(Q7321974) cairn	Q7321974	#c7ff30	public facility, transportation
+63.525917	7.8082867	319	(Q39715) lighthouse, (Q787078) sector light	Q39715, Q787078	#ff3400	public facility, transportation
+-108.172455	63.489006	43	(Q212198) pub, (Q256020) inn	Q212198, Q256020	#0000ff	public facility, transportation
+11.792824	-76.081566	166	(Q1187691) roadside station in Japan	Q1187691	#4dffaa	public facility, transportation
+-76.88288	-88.33929	342	(Q55521176) lower secondary school in Japan	Q55521176	#df0000	public facility, transportation
+64.61534	-72.92344	285	(Q3044808) appendage	Q3044808	#ff8900	public facility, transportation
+-78.98685	70.213844	3	(Q11832720) grave slab	Q11832720	#000089	public facility, transportation
+-45.12425	-90.63272	44	(Q67015940) Government Boys' Primary School	Q67015940	#0000ff	public facility, transportation
+-53.764614	-90.41411	368	(Q70206617) National Primary School	Q70206617	#920000	public facility, transportation
+-76.65035	-89.354675	342	(Q12708689) National Secondary School	Q12708689	#df0000	public facility, transportation
+29.58457	51.05771	310	(Q89021600) B road	Q89021600	#ff4a00	public facility, transportation
+16.813467	19.154789	141	(Q18760306) residential and commercial building	Q18760306	#16ffe1	public facility, transportation
+-19.209625	-11.30903	267	(Q17391474) neck gable building	Q17391474	#ffb900	public facility, transportation
+-31.045794	-4.5412097	337	(Q10416961) working life museum	Q10416961	#f10800	public facility, transportation
+36.668465	53.89507	50	(Q79007) street, (Q79007) street	Q79007, Q79007	#0008ff	public facility, transportation
+-72.66552	-81.11917	48	(Q88965416) school unit	Q88965416	#0000ff	public facility, transportation
+-78.70851	-85.46167	342	(Q12513144) vocational school in Indonesia	Q12513144	#df0000	public facility, transportation
+14.115874	-15.385327	367	(Q61663696) bicycle-sharing station	Q61663696	#920000	public facility, transportation
+-39.683266	147.2528	52	(Q681337) cowshed	Q681337	#000cff	public facility, transportation
+-2.7029202	72.07615	133	(Q5527082) gatepost	Q5527082	#06ecf1	public facility, transportation
+74.76024	-53.312332	355	(Q62059246) public reserve	Q62059246	#bb0000	public facility, transportation
+-45.38462	-89.37809	44	(Q67015944) Government Girls' Primary School	Q67015944	#0000ff	public facility, transportation
+108.496605	8.763424	228	(Q1078374) tenement	Q1078374	#d7ff1f	public facility, transportation
+-80.46523	67.40055	3	(Q203443) tombstone, (Q2065736) cultural property	Q203443, Q2065736	#000089	public facility, transportation
+-120.96462	-26.028242	22	(Q98094425) Station of the Cross	Q98094425	#0000c4	public facility, transportation
+-79.734886	69.30835	3	(Q19833736) chest tomb	Q19833736	#000089	public facility, transportation
+63.013687	26.61142	53	(Q712868) red telephone box	Q712868	#0010ff	public facility, transportation
+-112.111336	-86.41055	29	(Q64063317) lower primary school,  -	Q64063317	#0000d6	public facility, transportation
+-110.897385	-27.55365	296	(Q2977) cathedral	Q2977	#ff6f00	religion
+-132.11597	-22.883244	287	(Q856713) Christian hymn	Q856713	#ff8600	religion
+-110.69149	-24.463072	296	(Q160742) abbey	Q160742	#ff6f00	religion
+-127.39102	-15.866143	92	(Q178885) deity	Q178885	#0078ff	religion
+-120.46091	-28.402157	22	(Q16970) church building	Q16970	#0000c4	religion
+-123.511734	-36.49881	327	(Q44613) monastery	Q44613	#ff2200	religion
+-112.7718	-27.6897	296	(Q317557) parish church	Q317557	#ff6f00	religion
+-110.25308	-27.270401	296	(Q3146899) diocese of the Catholic Church	Q3146899	#ff6f00	religion
+-58.180664	-9.758372	301	(Q34627) synagogue	Q34627	#ff6000	religion
+-124.59021	-20.406748	92	(Q32815) mosque	Q32815	#0078ff	religion
+-110.920265	-25.518599	296	(Q1128397) convent	Q1128397	#ff6f00	religion
+-124.63987	-19.217606	92	(Q44539) temple	Q44539	#0078ff	religion
+-123.62285	-32.410255	327	(Q108325) chapel	Q108325	#ff2200	religion
+-82.69189	-2.0236228	214	(Q744296) wooden church	Q744296	#b7ff40	religion
+-82.95769	-1.5303185	214	(Q1088552) Catholic church building	Q1088552	#b7ff40	religion
+-84.14955	-0.58442	214	(Q2031836) Eastern Orthodox church	Q2031836	#b7ff40	religion
+-132.44131	-22.92659	287	(Q484692) hymn	Q484692	#ff8600	religion
+-125.49611	-18.452532	92	(Q101687) altar	Q101687	#0078ff	religion
+40.425156	29.72849	56	(Q29154515) chapter of the Bible	Q29154515	#0018ff	religion
+-66.74668	-25.62067	66	(Q102496) parish	Q102496	#0034ff	religion
+5.0020328	-77.76622	4	(Q5393308) Buddhist temple	Q5393308	#000089	religion
+4.983414	-77.77027	4	(Q842402) Hindu temple	Q842402	#000089	religion
+-122.08704	-30.825054	22	(Q16970) church building, (Q2065736) cultural property	Q16970, Q2065736	#0000c4	religion
+9.885459	-77.64117	166	(Q845945) shinto shrine	Q845945	#4dffaa	religion
+-122.9638	-17.116722	92	(Q722604) reliquary	Q722604	#0078ff	religion
+-109.2619	-2.5032854	112	(Q513550) hermitage	Q513550	#00b0ff	religion
+-129.26237	-41.187973	90	(Q1129743) filial church	Q1129743	#0074ff	religion
+-94.98869	-26.464642	199	(Q732034) stole	Q732034	#97ff60	religion
+-119.52522	-28.917566	22	(Q16970) church building, (Q811979) architectural structure	Q16970, Q811979	#0000c4	religion
+-114.79718	-27.681688	296	(Q56242063) Protestant church building	Q56242063	#ff6f00	religion
+-122.6499	-30.13583	22	(Q16970) church building, (Q210272) cultural heritage	Q16970, Q210272	#0000c4	religion
+40.489502	29.73016	56	(Q29154550) verse of the Bible	Q29154550	#0018ff	religion
+-72.60164	-37.56999	213	(Q1484611) buurtschap	Q1484611	#b4ff43	religion
+-83.64597	-2.7619793	214	(Q385337) deanery	Q385337	#b7ff40	religion
+-121.36966	1.3588389	176	(Q3395121) wayside shrine	Q3395121	#63ff94	religion
+-128.9021	-40.99688	90	(Q607241) clergy house	Q607241	#0074ff	religion
+-120.12086	-32.354015	22	(Q51041800) religious administrative entity	Q51041800	#0000c4	religion
+-121.315636	0.07289672	176	(Q14552192) chapel-shrine	Q14552192	#63ff94	religion
+-131.07692	-22.749271	287	(Q580499) oratory	Q580499	#ff8600	religion
+-111.2894	-33.964035	140	(Q208820) baptismal font	Q208820	#13fce4	religion
+-109.626976	-3.8860419	112	(Q56750657) hermitage	Q56750657	#00b0ff	religion
+-120.743576	-27.124643	22	(Q255956) Processional cross	Q255956	#0000c4	religion
+-110.184654	-31.307545	140	(Q14616641) presbytery	Q14616641	#13fce4	religion
+-121.959015	-52.505856	154	(Q211775) pulpit	Q211775	#33ffc4	religion
+-122.35366	-16.623268	92	(Q1670363) church tabernacle	Q1670363	#0078ff	religion
+-121.31096	-1.8435918	176	(Q46686) reredos	Q46686	#63ff94	religion
+-73.026505	-34.650166	213	(Q17143723) catholic parish	Q17143723	#b4ff43	religion
+-121.31273	-1.5099134	176	(Q46686) reredos, (Q97072190) religious ceramic panel	Q46686, Q97072190	#63ff94	religion
+-121.923386	-33.14211	327	(Q21061279) stained glass window	Q21061279	#ff2200	religion
+-127.88682	-40.482204	90	(Q6807904) meeting house	Q6807904	#0074ff	religion
+-121.72507	-53.58141	154	(Q891388) choir stalls	Q891388	#33ffc4	religion
+-26.644958	-6.7698846	337	(Q642861) holy water font	Q642861	#f10800	religion
+-106.67638	-34.953587	328	(Q210723) chalice	Q210723	#ff1e00	religion
+-109.0324	-31.763645	140	(Q335661) monstrance	Q335661	#13fce4	religion
+-97.68538	-52.098156	152	(Q3208559) Candomblé terreiro	Q3208559	#30ffc7	religion
+-111.13309	-28.888733	296	(Q40211238) churchyard wall	Q40211238	#ff6f00	religion
+-111.10218	-32.85476	140	(Q1044124) paten	Q1044124	#13fce4	religion
+-93.609985	-43.46544	75	(Q198373) ciborium	Q198373	#004cff	religion
+-126.403984	-16.830893	92	(Q683010) ex-voto	Q683010	#0078ff	religion
+9.97977	66.75576	147	(Q20460) crucifix, (Q2309609) wayside cross	Q20460, Q2309609	#23ffd4	religion
+88.163414	38.86284	64	(Q3863) asteroid	Q3863	#002cff	space
+121.94314	63.262905	164	(Q11276) globular cluster	Q11276	#49ffad	space
+86.136185	-18.22996	110	(Q11387) open cluster	Q11387	#00acff	space
+86.081406	-18.348484	110	(Q11387) open cluster, (Q168845) star cluster	Q11387, Q168845	#00acff	space
+94.26448	9.12574	264	(Q318) galaxy, (Q67206691) infrared source	Q318, Q67206691	#ffc100	space
+92.644745	7.772241	264	(Q318) galaxy	Q318	#ffc100	space
+117.15472	-31.482279	5	(Q2488) spiral galaxy, (Q67206691) infrared source	Q2488, Q67206691	#00008d	space
+88.54331	42.865875	64	(Q55818) impact crater	Q55818	#002cff	space
+82.32102	32.69796	202	(Q845371) void	Q845371	#9dff5a	space
+117.155525	-31.487932	5	(Q2488) spiral galaxy	Q2488	#00008d	space
+95.86973	12.672056	27	(Q2154519) astrophysical X-ray source, (Q318) galaxy	Q2154519, Q318	#0000d1	space
+122.231476	39.303574	173	(Q1151284) D galaxy, (Q318) galaxy	Q1151284, Q318	#5dff9a	space
+116.362045	83.16433	7	(Q1491746) galaxy group, (Q318) galaxy	Q1491746, Q318	#000092	space
+90.90022	7.319785	264	(Q318) galaxy, (Q67201586) HI (21cm) source	Q318, Q67201586, 21cm	#ffc100	space
+101.10418	65.79723	349	(Q2247863) high proper-motion star, (Q523) star, (Q67206691) infrared source	Q2247863, Q523, Q67206691	#cd0000	space
+112.875496	51.921204	115	(Q523) star	Q523	#00b8ff	space
+125.43608	-9.919809	138	(Q3887) solar eclipse	Q3887	#0ff8e7	space
+128.08397	54.946785	35	(Q204107) galaxy cluster	Q204107	#0000e8	space
+113.66094	84.33434	7	(Q28738741) interacting galaxies	Q28738741	#000092	space
+100.40648	23.20894	309	(Q18611609) unconfirmed exoplanet, (Q44559) extrasolar planet	Q18611609, Q44559	#ff4e00	space
+101.449715	97.99352	274	(Q13890) double star, (Q2247863) high proper-motion star, (Q523) star, (Q67206691) infrared source	Q13890, Q2247863, Q523, Q67206691	#ffa700	space
+100.813255	99.14062	274	(Q13890) double star, (Q523) star, (Q67206691) infrared source	Q13890, Q523, Q67206691	#ffa700	space
+88.78483	26.104853	325	(Q204194) dark nebula	Q204194	#ff2500	space
+116.85347	54.876503	115	(Q11276) globular cluster, (Q523) star	Q11276, Q523	#00b8ff	space
+116.48197	81.98464	7	(Q1491746) galaxy group, (Q204107) galaxy cluster	Q1491746, Q204107	#000092	space
+105.98493	101.94639	177	(Q13890) double star	Q13890	#66ff90	space
+127.26822	-11.667905	138	(Q9262) asterism	Q9262	#0ff8e7	space
+70.446014	50.808155	13	(Q71965638) Seyfert 2 galaxy	Q71965638	#0000a4	space
+116.60268	24.934208	352	(Q11282) H II region, (Q1931185) astronomical radio source	Q11282, Q1931185	#c40000	space
+113.44176	53.193623	115	(Q523) star, (Q67206691) infrared source	Q523, Q67206691	#00b8ff	space
+121.410835	62.50545	164	(Q168845) star cluster	Q168845	#49ffad	space
+116.648285	83.32878	7	(Q1491746) galaxy group	Q1491746	#000092	space
+89.02877	43.629013	64	(Q3240715) crater	Q3240715	#002cff	space
+110.97534	53.763416	115	(Q2557101) low-ionization nuclear emission-line region, (Q523) star	Q2557101, Q523	#00b8ff	space
+-91.964874	-42.47927	75	(Q130019) carbon star	Q130019	#004cff	space
+83.531204	33.51588	202	(Q115518) low-surface-brightness galaxy, (Q318) galaxy	Q115518, Q318	#9dff5a	space
+87.488754	39.97425	64	(Q2557101) low-ionization nuclear emission-line region, (Q318) galaxy	Q2557101, Q318	#002cff	space
+94.00643	28.086233	151	(Q1054444) interstellar cloud	Q1054444	#2cffca	space
+117.71294	55.409058	115	(Q27521) supercluster	Q27521	#00b8ff	space
+119.35658	27.55457	63	(Q1931185) astronomical radio source, (Q318) galaxy	Q1931185, Q318	#002cff	space
+93.970276	28.063753	151	(Q41872) interstellar medium	Q41872	#2cffca	space
+61.5604	39.226482	182	(Q2247863) high proper-motion star, (Q67206691) infrared source	Q2247863, Q67206691	#70ff87	space
+87.23438	40.073227	64	(Q2557101) low-ionization nuclear emission-line region	Q2557101	#002cff	space
+111.69767	51.82368	115	(Q318) galaxy, (Q523) star	Q318, Q523	#00b8ff	space
+114.092155	23.22548	352	(Q11282) H II region	Q11282	#c40000	space
+96.3755	15.151179	27	(Q6999) astronomical object	Q6999	#0000d1	space
+81.01327	16.741089	116	(Q318) galaxy, (Q72802508) emission-line galaxy	Q318, Q72802508	#00bcff	space
+113.10947	-1.5586447	70	(Q318) galaxy, (Q67206701) far-IR source	Q318, Q67206701	#003cff	space
+88.761826	25.73208	325	(Q13632) planetary nebula	Q13632	#ff2500	space
+115.99102	54.11235	115	(Q168845) star cluster, (Q523) star	Q168845, Q523	#00b8ff	space
+112.3073	-16.409496	153	(Q2168098) rotating variable star, (Q67206691) infrared source	Q2168098, Q67206691	#30ffc7	space
+99.46613	98.260155	274	(Q50053) binary star, (Q523) star, (Q67206691) infrared source	Q50053, Q523, Q67206691	#ffa700	space
+139.9366	-12.346978	242	(Q1142192) peculiar star, (Q67206691) infrared source	Q1142192, Q67206691	#f4f802	space
+95.25229	8.563755	264	(Q1341811) astrophysical maser	Q1341811	#ffc100	space
+105.24765	33.150364	251	(Q1621824) high-velocity cloud	Q1621824	#ffe200	space
+100.69777	99.45281	274	(Q13890) double star, (Q523) star	Q13890, Q523	#ffa700	space
+101.08735	65.99874	349	(Q2247863) high proper-motion star, (Q523) star	Q2247863, Q523	#cd0000	space
+102.68329	101.21733	274	(Q13890) double star, (Q67206691) infrared source	Q13890, Q67206691	#ffa700	space
+139.94398	-12.347965	242	(Q1142192) peculiar star	Q1142192	#f4f802	space
+113.65086	51.809822	115	(Q523) star, (Q72803622) emission-line star	Q523, Q72803622	#00b8ff	space
+111.2024	-15.513631	153	(Q6243) variable star, (Q67206691) infrared source	Q6243, Q67206691	#30ffc7	space
+61.733616	39.01421	182	(Q66619666) Red Giant Branch star, (Q67206691) infrared source	Q66619666, Q67206691	#70ff87	space
+118.28588	1.6371534	237	(Q67206691) infrared source	Q67206691	#ebff0c	space
+115.964226	0.16351685	237	(Q67206701) far-IR source	Q67206701	#ebff0c	space
+60.243126	40.772717	182	(Q2247863) high proper-motion star	Q2247863	#70ff87	space
+106.01315	101.54794	177	(Q13890) double star, (Q2247863) high proper-motion star	Q13890, Q2247863	#66ff90	space
+117.08272	0.86910486	237	(Q67206691) infrared source, (Q67206701) far-IR source	Q67206691, Q67206701	#ebff0c	space
+125.35878	-12.422631	138	(Q1153690) long period variable	Q1153690	#0ff8e7	space
+110.63997	-15.055322	153	(Q6243) variable star	Q6243	#30ffc7	space
+82.83266	111.23945	118	(Q1457376) eclipsing binary star	Q1457376	#00c0ff	space
+116.02933	-23.491001	244	(Q744691) Mira variable	Q744691	#fbf100	space
+118.495445	1.7559626	237	(Q67206691) infrared source, (Q72803622) emission-line star	Q67206691, Q72803622	#ebff0c	space
+131.19765	10.920768	14	(Q497654) young stellar object, (Q67201574) sub-millimetric source	Q497654, Q67201574	#0000a8	space
+114.89027	51.789658	115	(Q2154519) astrophysical X-ray source, (Q523) star	Q2154519, Q523	#00b8ff	space
+83.80878	33.70239	202	(Q115518) low-surface-brightness galaxy	Q115518	#9dff5a	space
+102.31983	61.911186	67	(Q523) star, (Q71798788) UV-emission source	Q523, Q71798788	#0034ff	space
+131.5746	12.23578	14	(Q497654) young stellar object, (Q72802977) young stellar object candidate	Q497654, Q72802977	#0000a8	space
+154.27489	-2.1016247	60	(Q72803622) emission-line star	Q72803622	#0024ff	space
+112.15171	-2.1517274	70	(Q523) star, (Q67206701) far-IR source	Q523, Q67206701	#003cff	space
+65.08924	30.072882	53	(Q72802727) possible red giant branch star	Q72802727	#0010ff	space
+120.16378	32.199207	365	(Q217012) radio galaxy	Q217012	#9b0000	space
+90.13485	51.005493	270	(Q1931185) astronomical radio source, (Q523) star	Q1931185, Q523	#ffb200	space
+93.04203	98.56992	33	(Q24452) Algol variable	Q24452	#0000e3	space
+90.5144	75.65248	304	(Q5871) white dwarf	Q5871	#ff5900	space
+113.651405	-22.1052	244	(Q2168098) rotating variable star	Q2168098	#fbf100	space
+124.32419	26.5858	63	(Q1931185) astronomical radio source, (Q72802508) emission-line galaxy	Q1931185, Q72802508	#002cff	space
+70.44903	50.80155	13	(Q71965429) Seyfert 1 galaxy	Q71965429	#0000a4	space
+64.608116	29.590494	53	(Q66619666) Red Giant Branch star	Q66619666	#0010ff	space
+110.14454	-12.523998	153	(Q1362543) eruptive variable star	Q1362543	#30ffc7	space
+104.89937	-24.281713	55	(Q836976) Delta Scuti variable	Q836976	#0014ff	space
+79.97201	52.89441	144	(Q71965429) Seyfert 1 galaxy, (Q83373) quasar	Q71965429, Q83373	#1cffdb	space
+122.67109	39.3773	173	(Q1151284) D galaxy	Q1151284	#5dff9a	space
+79.94411	16.288612	116	(Q72802508) emission-line galaxy	Q72802508	#00bcff	space
+81.54581	111.65098	118	(Q1457376) eclipsing binary star, (Q72534536) eclipsing binary candidate	Q1457376, Q72534536	#00c0ff	space
+121.73285	37.721523	173	(Q1151284) D galaxy, (Q1931185) astronomical radio source	Q1151284, Q1931185	#5dff9a	space
+102.559105	102.10043	274	(Q1993624) spectroscopic binary star	Q1993624	#ffa700	space
+81.32648	16.86142	116	(Q318) galaxy, (Q71798788) UV-emission source	Q318, Q71798788	#00bcff	space
+114.528824	-16.964628	153	(Q726242) RR Lyrae variable	Q726242	#30ffc7	space
+60.48058	45.997993	344	(Q54231557) hot subdwarf star	Q54231557	#da0000	space
+115.08176	-23.899183	244	(Q691269) W Ursae Majoris variable	Q691269	#fbf100	space
+113.89194	-21.572897	244	(Q353834) pulsating variable star	Q353834	#fbf100	space
+-90.8653	-41.82814	75	(Q130019) carbon star, (Q523) star	Q130019, Q523	#004cff	space
+131.77512	12.8785095	14	(Q72802977) young stellar object candidate	Q72802977	#0000a8	space
+109.3114	-6.6193995	70	(Q523) star, (Q6243) variable star	Q523, Q6243	#003cff	space
+95.43798	12.137266	27	(Q2154519) astrophysical X-ray source	Q2154519	#0000d1	space
+95.02363	10.581162	27	(Q2154519) astrophysical X-ray source, (Q67206691) infrared source	Q2154519, Q67206691	#0000d1	space
+128.82993	9.113888	14	(Q497654) young stellar object	Q497654	#0000a8	space
+100.95229	67.20959	349	(Q523) star, (Q72802977) young stellar object candidate	Q523, Q72802977	#cd0000	space
+132.09314	13.843578	14	(Q67206691) infrared source, (Q72802977) young stellar object candidate	Q67206691, Q72802977	#0000a8	space
+83.105064	111.35728	118	(Q1457376) eclipsing binary star, (Q67206691) infrared source	Q1457376, Q67206691	#00c0ff	space
+82.10456	53.362278	144	(Q46587) active galactic nucleus	Q46587	#1cffdb	space
+86.9956	49.99673	270	(Q83373) quasar	Q83373	#ffb200	space
+128.3395	8.798616	14	(Q497654) young stellar object, (Q67206691) infrared source	Q497654, Q67206691	#0000a8	space
+88.182365	49.70893	270	(Q1931185) astronomical radio source, (Q83373) quasar	Q1931185, Q83373	#ffb200	space
+107.70463	-1.1760352	338	(Q523) star, (Q67206785) near-IR source	Q523, Q67206785	#ed0400	space
+-22.393755	-2.6467733	18	(Q72803426) horizontal branch star	Q72803426	#0000b6	space
+125.90403	-11.817814	138	(Q1153690) long period variable, (Q67206691) infrared source	Q1153690, Q67206691	#0ff8e7	space
+83.404945	53.782745	144	(Q46587) active galactic nucleus, (Q83373) quasar	Q46587, Q83373	#1cffdb	space
+110.36322	-4.875615	70	(Q1153690) long period variable, (Q523) star	Q1153690, Q523	#003cff	space
+61.21972	44.973335	344	(Q2247863) high proper-motion star, (Q72803170) low-mass star	Q2247863, Q72803170	#da0000	space
+118.66042	25.092644	63	(Q1931185) astronomical radio source, (Q2154519) astrophysical X-ray source	Q1931185, Q2154519	#002cff	space
+103.80468	-23.095562	55	(Q188593) cepheid variable	Q188593	#0014ff	space
+121.24235	40.08115	173	(Q1151284) D galaxy, (Q523) star	Q1151284, Q523	#5dff9a	space
+61.471584	44.788998	344	(Q72803170) low-mass star	Q72803170	#da0000	space
+118.13414	25.549698	63	(Q1931185) astronomical radio source, (Q67206691) infrared source	Q1931185, Q67206691	#002cff	space
+109.11671	-4.6445665	70	(Q2168098) rotating variable star, (Q523) star	Q2168098, Q523	#003cff	space
+104.65448	-19.274923	55	(Q10451997) classical Cepheid variable, (Q67206691) infrared source	Q10451997, Q67206691	#0014ff	space
+90.77056	76.08773	304	(Q2247863) high proper-motion star, (Q5871) white dwarf	Q2247863, Q5871	#ff5900	space
+103.847176	-22.63662	55	(Q10451997) classical Cepheid variable	Q10451997	#0014ff	space
+115.076965	-25.315481	244	(Q5848) blue straggler	Q5848	#fbf100	space
+66.784836	31.503992	53	(Q523) star, (Q66619666) Red Giant Branch star	Q523, Q66619666	#0010ff	space
+112.23325	50.035294	115	(Q497654) young stellar object, (Q523) star	Q497654, Q523	#00b8ff	space
+-89.536865	-41.096195	75	(Q1153690) long period variable, (Q130019) carbon star	Q1153690, Q130019	#004cff	space
+90.838844	54.784966	270	(Q523) star, (Q83373) quasar	Q523, Q83373	#ffb200	space
+66.53771	31.294436	53	(Q523) star, (Q72802727) possible red giant branch star	Q523, Q72802727	#0010ff	space
+106.96624	0.89856684	338	(Q67206785) near-IR source	Q67206785	#ed0400	space
+112.44652	-22.324316	244	(Q1332364) rotating ellipsoidal variable	Q1332364	#fbf100	space
+93.02916	98.563896	33	(Q24452) Algol variable, (Q67206691) infrared source	Q24452, Q67206691	#0000e3	space
+103.004364	61.044888	67	(Q523) star, (Q71798532) blue object	Q523, Q71798532	#0034ff	space
+103.671585	60.18729	67	(Q523) star, (Q72803426) horizontal branch star	Q523, Q72803426	#0034ff	space
+85.198425	113.722984	118	(Q1457376) eclipsing binary star, (Q523) star	Q1457376, Q523	#00c0ff	space
+114.504	49.958225	115	(Q523) star, (Q836976) Delta Scuti variable	Q523, Q836976	#00b8ff	space
+84.495094	55.780823	144	(Q46587) active galactic nucleus, (Q523) star	Q46587, Q523	#1cffdb	space
+90.90382	54.94042	270	(Q523) star, (Q71965429) Seyfert 1 galaxy, (Q83373) quasar	Q523, Q71965429, Q83373	#ffb200	space
+100.2624	96.6561	274	(Q523) star, (Q71965638) Seyfert 2 galaxy	Q523, Q71965638	#ffa700	space
+102.11494	62.136982	67	(Q523) star, (Q72802508) emission-line galaxy	Q523, Q72802508	#0034ff	space
+89.81657	50.912918	270	(Q1931185) astronomical radio source, (Q523) star, (Q83373) quasar	Q1931185, Q523, Q83373	#ffb200	space
+78.893425	15.791876	116	(Q71798788) UV-emission source	Q71798788	#00bcff	space
+128.09094	54.944828	35	(Q204107) galaxy cluster, (Q72054258) possible cluster of galaxies	Q204107, Q72054258	#0000e8	space
+107.24006	0.03264961	338	(Q318) galaxy, (Q67206785) near-IR source	Q318, Q67206785	#ed0400	space
+119.20087	27.211386	63	(Q1931185) astronomical radio source	Q1931185	#002cff	space
+113.51818	-16.656973	153	(Q67206691) infrared source, (Q726242) RR Lyrae variable	Q67206691, Q726242	#30ffc7	space
+84.3343	55.15316	144	(Q46587) active galactic nucleus, (Q523) star, (Q83373) quasar	Q46587, Q523, Q83373	#1cffdb	space
+81.07325	53.187546	144	(Q46587) active galactic nucleus, (Q71965429) Seyfert 1 galaxy	Q46587, Q71965429	#1cffdb	space
+90.15775	75.03689	304	(Q523) star, (Q5871) white dwarf	Q523, Q5871	#ff5900	space
+84.57054	56.630867	144	(Q46587) active galactic nucleus, (Q523) star, (Q71965429) Seyfert 1 galaxy	Q46587, Q523, Q71965429	#1cffdb	space
+124.902504	-12.918083	138	(Q1153690) long period variable, (Q6243) variable star	Q1153690, Q6243	#0ff8e7	space
+108.899025	-4.24932	70	(Q523) star, (Q744691) Mira variable	Q523, Q744691	#003cff	space
+98.313	98.206314	274	(Q24452) Algol variable, (Q523) star	Q24452, Q523	#ffa700	space
+83.27771	110.07637	118	(Q1457376) eclipsing binary star, (Q6243) variable star	Q1457376, Q6243	#00c0ff	space
+85.27094	113.79555	118	(Q1457376) eclipsing binary star, (Q24452) Algol variable, (Q523) star	Q1457376, Q24452, Q523	#00c0ff	space
+107.28109	-4.5333843	70	(Q523) star, (Q726242) RR Lyrae variable	Q523, Q726242	#003cff	space
+86.74658	71.00142	123	(Q6458) nova	Q6458	#00d0ff	space
+-89.87455	-41.27809	75	(Q1153690) long period variable, (Q130019) carbon star, (Q523) star	Q1153690, Q130019, Q523	#004cff	space
+86.21362	69.8274	123	(Q3937) supernova	Q3937	#00d0ff	space
+120.17283	32.199795	365	(Q1931185) astronomical radio source, (Q217012) radio galaxy	Q1931185, Q217012	#9b0000	space
+123.008575	65.34871	164	(Q72803708) possible globular cluster	Q72803708	#49ffad	space
+76.39186	14.048098	116	(Q244264) dwarf nova	Q244264	#00bcff	space
+90.15992	7.0914803	264	(Q67201586) HI (21cm) source	Q67201586, 21cm	#ffc100	space
+104.58863	-19.447542	55	(Q10451997) classical Cepheid variable, (Q188593) cepheid variable, (Q67206691) infrared source	Q10451997, Q188593, Q67206691	#0014ff	space
+100.41158	23.209549	309	(Q18611609) unconfirmed exoplanet	Q18611609	#ff4e00	space
+131.56517	9.858706	14	(Q50048) Herbig–Haro object	Q50048	#0000a8	space
+106.25725	-4.978511	70	(Q10451997) classical Cepheid variable, (Q188593) cepheid variable, (Q523) star	Q10451997, Q188593, Q523	#003cff	space
+86.88553	71.31299	123	(Q4360) pulsar	Q4360	#00d0ff	space
+-21.887442	8.829754	119	(Q67201574) sub-millimetric source	Q67201574	#00c4ff	space
+-20.870663	9.773937	119	(Q67201561) millimetric Radio-source	Q67201561	#00c4ff	space
+94.34086	13.145003	27	(Q22247) gamma-ray burst	Q22247	#0000d1	space
+88.786964	27.319286	325	(Q272447) molecular cloud	Q272447	#ff2500	space
+125.07345	66.46978	164	(Q71963409) compact group of galaxies	Q71963409	#49ffad	space
+127.26308	8.118674	14	(Q2680861) transient astronomical event	Q2680861	#0000a8	space
+124.32617	26.579313	63	(Q1931185) astronomical radio source, (Q67201524) centimetric radio source	Q1931185, Q67201524	#002cff	space
+114.64977	83.92194	7	(Q1491746) galaxy group, (Q28738741) interacting galaxies	Q1491746, Q28738741	#000092	space
+124.48201	66.04609	164	(Q72533545) possible group of galaxies	Q72533545	#49ffad	space
+117.59647	83.95834	7	(Q1491746) galaxy group, (Q72533545) possible group of galaxies	Q1491746, Q72533545	#000092	space
+123.21534	65.23705	164	(Q11276) globular cluster, (Q72803708) possible globular cluster	Q11276, Q72803708	#49ffad	space
+105.24755	33.153305	251	(Q1621824) high-velocity cloud, (Q67201586) HI (21cm) source	Q1621824, Q67201586, 21cm	#ffe200	space
+76.45692	14.097026	116	(Q71962386) gamma-ray source	Q71962386	#00bcff	space
+-20.334007	9.700978	119	(Q67201524) centimetric radio source	Q67201524	#00c4ff	space
+114.12462	23.247606	352	(Q11282) H II region, (Q188593) cepheid variable	Q11282, Q188593	#c40000	space
+-107.86845	93.84452	54	(Q476028) association football club	Q476028	#0010ff	sports
+39.543865	-18.17813	139	(Q18608583) recurring sporting event	Q18608583	#13fce4	sports
+-107.38773	87.55515	320	(Q6979593) national association football team	Q6979593	#ff3000	sports
+-88.690956	114.595795	94	(Q483110) stadium	Q483110	#0080ff	sports
+-108.03578	92.55591	54	(Q15991303) association football league	Q15991303	#0010ff	sports
+-92.07802	121.79658	239	(Q27020041) sports season	Q27020041	#eeff09	sports
+-67.3644	112.620735	167	(Q18536594) Olympic sporting event	Q18536594	#50ffa7	sports
+-62.07973	131.4977	165	(Q13393265) basketball team	Q13393265	#49ffad	sports
+-94.61502	121.60574	239	(Q847017) sports club	Q847017	#eeff09	sports
+-107.709015	87.45037	320	(Q17315159) international association football match	Q17315159	#ff3000	sports
+-108.04476	94.23711	54	(Q1154710) association football venue	Q1154710	#0010ff	sports
+-96.40613	122.09301	239	(Q14645593) rugby union team	Q14645593	#eeff09	sports
+-66.078354	112.266396	167	(Q26213387) Olympic delegation	Q26213387	#50ffa7	sports
+-16.075518	98.78263	354	(Q4498974) ice hockey team	Q4498974	#bb0000	sports
+-88.579926	112.72354	94	(Q13406554) sports competition	Q13406554	#0080ff	sports
+-86.51864	105.94956	233	(Q1194951) national sports team	Q1194951	#e1ff16	sports
+-68.57721	112.363525	167	(Q16510064) sporting event	Q16510064	#50ffa7	sports
+-108.672874	95.36936	54	(Q1478437) soccer competition	Q1478437	#0010ff	sports
+-88.35521	110.19396	94	(Q623109) sports league	Q623109	#0080ff	sports
+-78.39756	119.02019	16	(Q500834) tournament	Q500834	#0000ad	sports
+-56.790657	100.05945	222	(Q15720476) volleyball team	Q15720476	#c7ff30	sports
+-90.220436	112.531105	94	(Q2485448) sports governing body	Q2485448	#0080ff	sports
+-86.1727	107.64532	233	(Q2122052) qualification	Q2122052	#e1ff16	sports
+-106.1034	87.98749	320	(Q65770283) association football final	Q65770283	#ff3000	sports
+14.1563635	92.23819	62	(Q17317604) professional wrestling event	Q17317604	#0028ff	sports
+-47.320583	-87.04049	44	(Q14752149) amateur football club	Q14752149	#0000ff	sports
+158.3941	-1.99727	60	(Q1079023) championship	Q1079023	#0024ff	sports
+-88.81825	113.23527	94	(Q1076486) sports venue	Q1076486	#0080ff	sports
+-79.15017	109.68422	331	(Q12973014) sports team	Q12973014	#ff1600	sports
+-87.73941	112.33484	94	(Q51031626) sport competition at a multi-sport event	Q51031626	#0080ff	sports
+-86.881615	106.20358	233	(Q46135307) nation at sport competition	Q46135307	#e1ff16	sports
+-92.994194	121.11185	239	(Q1539532) sports season of a sports club	Q1539532	#eeff09	sports
+-56.78863	100.047966	222	(Q53532033) volleyball team season	Q53532033	#c7ff30	sports
+-62.13903	131.1902	165	(Q26894053) basketball team season	Q26894053	#49ffad	sports
+-15.858815	97.57636	354	(Q2990963) figure skating competition	Q2990963	#bb0000	sports
+-24.646845	-88.192116	263	(Q23726798) elite national cycling team	Q23726798	#ffc100	sports
+-87.9722	105.70923	233	(Q35823051) nation at the World Championships in Athletics	Q35823051	#e1ff16	sports
+-122.32037	49.52967	103	(Q2338524) auto racing track	Q2338524	#0098ff	sports
+-93.480804	98.85332	161	(Q17156793) American football team	Q17156793	#43ffb4	sports
+-98.05316	109.75181	269	(Q13027888) baseball team	Q13027888	#ffb200	sports
+-105.708664	92.773605	54	(Q16466010) association football match	Q16466010	#0010ff	sports
+-79.117516	109.68335	331	(Q29791211) sport in a geographic region	Q29791211	#ff1600	sports
+-55.165936	115.66706	79	(Q47443726) recurring tennis tournament	Q47443726	#0058ff	sports
+-106.7917	92.70618	54	(Q26887310) association football team season	Q26887310	#0010ff	sports
+-63.314793	114.34486	167	(Q57733494) badminton event	Q57733494	#50ffa7	sports
+-65.44367	113.113106	167	(Q46195901) Paralympics delegation	Q46195901	#50ffa7	sports
+-92.57681	119.698784	239	(Q50846468) sports tour	Q50846468	#eeff09	sports
+-58.935715	115.240036	79	(Q15061650) golf tournament	Q15061650	#0058ff	sports
+-53.429146	113.34393	79	(Q46190676) tennis event	Q46190676	#0058ff	sports
+-70.063095	86.894394	204	(Q20646667) plain stage	Q20646667	#a0ff56	sports
+-78.16984	119.42429	16	(Q18131152) round	Q18131152	#0000ad	sports
+-77.78224	120.18353	16	(Q20646670) hilly stage	Q20646670	#0000ad	sports
+-62.291622	130.39516	165	(Q18431960) basketball game	Q18431960	#49ffad	sports
+-24.650795	-88.19128	263	(Q1756006) UCI Continental Team, (Q53534649) cycling team season	Q1756006, Q53534649	#ffc100	sports
+-54.79076	115.59018	79	(Q47345468) tennis tournament edition	Q47345468	#0058ff	sports
+-93.241646	99.05396	161	(Q26895936) American football team season	Q26895936	#43ffb4	sports
+-43.36114	150.2233	52	(Q3001412) horse race	Q3001412	#000cff	sports
+-54.313164	116.71945	79	(Q62391930) beauty pageant edition	Q62391930	#0058ff	sports
+-65.3197	113.85402	167	(Q50393057) Paralympic sporting event	Q50393057	#50ffa7	sports
+-59.9472	115.08129	79	(Q17299750) snooker tournament	Q17299750	#0058ff	sports
+-53.896954	114.06627	79	(Q21170330) tennis qualification event	Q21170330	#0058ff	sports
+-65.5478	115.014626	167	(Q21246076) rowing event	Q21246076	#50ffa7	sports
+-92.22342	99.93217	161	(Q2922711) bowl game	Q2922711	#43ffb4	sports
+-98.04928	109.75745	269	(Q26896697) baseball team season	Q26896697	#ffb200	sports
+-24.194338	-4.141258	18	(Q58952621) nan	Q58952621	#0000b6	sports
+-16.121933	98.948685	354	(Q27020779) ice hockey team season	Q27020779	#bb0000	sports
+14.236009	-118.58032	289	(Q35127) website	Q35127	#ff8200	technology, programming
+74.673065	90.95956	121	(Q341) free software	Q341	#00c8ff	technology, programming
+-21.449915	57.53617	339	(Q7397) software	Q7397	#e80000	technology, programming
+-16.834822	-6.228342	336	(Q29654788) Unicode character	Q29654788	#f60b00	technology, programming
+58.92253	-19.810751	37	(Q1172284) data set	Q1172284	#0000f1	technology, programming
+55.346928	-34.284115	188	(Q235557) file format	Q235557	#7dff7a	technology, programming
+46.032703	51.18691	203	(Q121117) supercomputer	Q121117	#9dff5a	technology, programming
+15.873739	-138.05194	198	(Q783866) JavaScript library	Q783866	#94ff63	technology, programming
+41.56356	-107.9309	146	(Q212971) Request for Comments	Q212971	#1fffd7	technology, programming
+108.18047	-15.8053055	153	(Q577) year	Q577	#30ffc7	time, event
+40.728764	-19.998148	139	(Q14795564) point in time with respect to recurrent timeframe	Q14795564	#13fce4	time, event
+-93.59545	-44.516724	75	(Q29964144) year BC	Q29964144	#004cff	time, event
+10.523389	147.91022	168	(Q220505) film festival	Q220505	#50ffa7	time, event
+-14.418886	-108.780396	316	(Q868557) music festival	Q868557	#ff3b00	time, event
+40.307537	-19.889675	139	(Q15275719) recurring event	Q15275719	#13fce4	time, event
+-45.700428	8.602979	125	(Q1445650) holiday	Q1445650	#00d4ff	time, event
+38.869717	-16.660185	323	(Q132241) festival	Q132241	#ff2900	time, event
+45.12506	-22.381378	318	(Q18340514) events in a specific year or time period	Q18340514	#ff3800	time, event
+97.365364	12.575217	27	(Q1190554) occurrence	Q1190554	#0000d1	time, event
+45.434013	-22.467276	318	(Q186117) timeline	Q186117	#ff3800	time, event
+9.452155	148.51569	168	(Q27787439) film festival edition	Q27787439	#50ffa7	time, event
+-29.221598	-141.8887	11	(Q30227593) one-year-period overlapping two calendar years	Q30227593	#00009f	time, event
+46.64415	-22.859724	318	(Q1260524) time of the day	Q1260524	#ff3800	time, event
+38.045383	-14.602236	323	(Q1656682) event	Q1656682	#ff2900	time, event
+-24.4209	-8.290312	18	(Q50823455) Hebrew calendar year	Q50823455	#0000b6	time, event
+-97.26571	7.145857	129	(Q1965390) Narrenzunft	Q1965390	#00e0fb	time, event
+55.21472	156.18565	217	(Q15056995) aircraft model	Q15056995	#beff39	vehicles
+-14.436379	128.30849	307	(Q559026) ship class	Q559026	#ff5200	vehicles
+-122.26494	49.525524	103	(Q786820) automobile manufacturer	Q786820	#0098ff	vehicles
+55.217762	156.22217	217	(Q15056993) aircraft family	Q15056993	#beff39	vehicles
+-119.56775	50.3751	103	(Q3231690) automobile model	Q3231690	#0098ff	vehicles
+-15.841888	130.31873	307	(Q174736) destroyer	Q174736	#ff5200	vehicles
+-96.33325	5.8308477	129	(Q428661) U-boat	Q428661	#00e0fb	vehicles
+53.434074	149.817	217	(Q744913) aviation accident	Q744913	#beff39	vehicles
+-12.986175	129.5767	307	(Q11446) ship	Q11446	#ff5200	vehicles
+-81.254074	-15.436776	334	(Q2811) submarine	Q2811	#fa0f00	vehicles
+56.09793	150.98009	217	(Q11436) aircraft	Q11436	#beff39	vehicles
+-127.532005	46.30147	253	(Q15057021) engine model	Q15057021	#ffdb00	vehicles
+-21.19514	20.86753	276	(Q23866334) motorcycle model	Q23866334	#ffa300	vehicles
+54.310524	151.38112	217	(Q695850) airbase	Q695850	#beff39	vehicles
+-14.866129	130.35718	307	(Q41982239) navigation channel	Q41982239	#ff5200	vehicles
+12.358829	91.553	62	(Q19832486) locomotive class	Q19832486	#0028ff	vehicles
+54.63541	151.4766	217	(Q62447) aerodrome	Q62447	#beff39	vehicles
+51.43896	128.77777	312	(Q23039057) bus model	Q23039057	#ff4700	vehicles
+-118.175644	49.847958	103	(Q55725952) tractor model	Q55725952	#0098ff	vehicles
+52.243874	144.52678	24	(Q502074) heliport	Q502074	#0000c8	vehicles
+-119.29884	51.980606	103	(Q850270) concept car	Q850270	#0098ff	vehicles
+-13.668511	129.64865	307	(Q12859788) steamship	Q12859788	#ff5200	vehicles
+-119.359955	50.643456	103	(Q90834785) racing automobile model	Q90834785	#0098ff	vehicles
+-14.293357	133.19246	307	(Q15276) bulk carrier	Q15276	#ff5200	vehicles
+-14.637546	132.31584	307	(Q17210) container ship	Q17210	#ff5200	vehicles
+-12.159984	112.58384	196	(Q105731) lock	Q105731	#90ff66	vehicles
+54.836784	152.77739	217	(Q1875630) aircraft fleet	Q1875630	#beff39	vehicles
+17.981108	-106.40026	347	(Q4167410) Wikimedia disambiguation page	Q4167410	#d10000	wiki
+10.153736	-122.202324	362	(Q13406463) Wikimedia list article	Q13406463	#a40000	wiki
+29.32355	-124.41787	311	(Q4167836) Wikimedia category	Q4167836	#ff4a00	wiki
+29.498413	-124.043045	311	(Q23894233) Wikimedia templates category	Q23894233	#ff4a00	wiki
+11.245616	-126.09969	159	(Q24046192) Wikimedia category of stubs	Q24046192	#3cffba	wiki
+-9.747765	-89.81167	193	(Q30432511) metacategory in Wikimedia projects	Q30432511	#8aff6d	wiki
+30.72499	-122.40581	311	(Q11266439) Wikimedia template	Q11266439	#ff4a00	wiki
+6.1943913	-119.19635	72	(Q36330215) Wikimedia location map template	Q36330215	#0044ff	wiki
+10.357233	-124.821495	159	(Q14204246) Wikimedia project page	Q14204246	#3cffba	wiki
+17.974773	-106.452965	347	(Q22808320) Wikimedia human name disambiguation page	Q22808320	#d10000	wiki
+32.19798	-122.73502	311	(Q59542487) Wikimedia set category	Q59542487	#ff4a00	wiki
+35.713238	22.518559	235	(Q80096233) information list	Q80096233	#e4ff13	wiki
+28.269093	-123.17834	311	(Q4663903) Wikimedia portal	Q4663903	#ff4a00	wiki
+30.615168	-121.57166	311	(Q11266439) Wikimedia template, (Q17146139) Wikimedia route diagram	Q11266439, Q17146139	#ff4a00	wiki
+30.817362	-125.29299	311	(Q15647814) Wikimedia administration category	Q15647814	#ff4a00	wiki
+33.513668	-141.22034	155	(Q17362920) Wikimedia duplicated page	Q17362920	#36ffc1	wiki
+4.7969966	-116.37913	72	(Q11753321) Wikimedia navigational template	Q11753321	#0044ff	wiki
+7.0832324	-119.344124	72	(Q19887878) Wikimedia infobox template	Q19887878	#0044ff	wiki
+5.9207044	-115.803665	72	(Q19842659) Wikimedia user language template	Q19842659	#0044ff	wiki
+28.815193	-125.62081	311	(Q13331174) Wikimedia navboxes category	Q13331174	#ff4a00	wiki
+12.928797	-118.5589	289	(Q15623926) Wikimedia set index article	Q15623926	#ff8200	wiki
+6.2051835	-115.500244	72	(Q20010800) Wikimedia user language category	Q20010800	#0044ff	wiki
+9.414425	-122.72897	362	(Q56428020) Wikimedia lists category	Q56428020	#a40000	wiki
+25.335997	-124.92124	23	(Q15184295) Wikimedia module	Q15184295	#0000c4	wiki
+9.080158	-123.992226	362	(Q16695773) WikiProject	Q16695773	#a40000	wiki
+12.357042	-117.921165	289	(Q17633526) Wikinews article	Q17633526	#ff8200	wiki
+7.904297	-122.36073	362	(Q59191021) Wikimedia albums discography	Q59191021	#a40000	wiki
+-16.790922	-33.006577	254	(Q24574745) Commons category	Q24574745	#ffdb00	wiki
+33.164787	-140.17496	155	(Q21286738) Wikimedia permanent duplicate item	Q21286738	#36ffc1	wiki
+2.969216	-129.25275	299	(Q19692233) Wikimedia list of persons	Q19692233	#ff6800	wiki
+24.022223	-123.91567	23	(Q21278897) Wiktionary redirect	Q21278897	#0000c4	wiki
+11.854125	-124.16171	159	(Q104696061) Wikibooks page	Q104696061	#3cffba	wiki
+9.368932	-125.86047	159	(Q26267864) Wikimedia KML file	Q26267864	#3cffba	wiki
+-16.801847	-33.011402	254	(Q21167233) Commons gallery	Q21167233	#ffdb00	wiki
+25.0155	-125.88643	23	(Q6805426) MediaWiki extension	Q6805426	#0000c4	wiki
+2.975129	-129.25111	299	(Q58408484) Wikimedia list of persons by surname	Q58408484	#ff6800	wiki
+33.11438	-140.01576	155	(Q21286738) Wikimedia permanent duplicate item, (Q4167836) Wikimedia category	Q21286738, Q4167836	#36ffc1	wiki
+15.87218	-137.72713	198	(Q20088085) dictionary page in Wikipedia	Q20088085	#94ff63	wiki
+-3.429472	-9.288596	170	(Q4592255) Project:Subpages	Q4592255	#56ffa0	wiki
+53.082405	-32.66165	188	(Q47461344) written work	Q47461344	#7dff7a	written work
+-3.1547763	27.632893	76	(Q7725634) literary work	Q7725634	#0050ff	written work
+36.196064	17.297146	235	(Q1110794) daily newspaper	Q1110794	#e4ff13	written work
+44.437492	69.90864	179	(Q277759) book series	Q277759	#6aff8d	written work
+-3.8928392	28.747475	76	(Q378427) literary award	Q378427	#0050ff	written work
+98.73949	-99.193115	195	(Q14406742) comic book series	Q14406742	#8dff6a	written work
+33.303875	30.610752	272	(Q571) book	Q571	#ffab00	written work
+52.19603	-32.04115	188	(Q87167) manuscript	Q87167	#7dff7a	written work
+27.58758	166.17029	98	(Q5185279) poem	Q5185279	#008cff	written work
+39.653896	-20.900703	139	(Q1002697) periodical	Q1002697	#13fce4	written work
+102.14863	-91.20882	68	(Q1279564) short story collection	Q1279564	#0038ff	written work
+35.7609	31.31781	56	(Q8261) novel	Q8261	#0018ff	written work
+102.53543	-91.330475	68	(Q49084) short story	Q49084	#0038ff	written work
+31.617023	30.50352	272	(Q2085381) publisher	Q2085381	#ffab00	written work
+6.3924747	45.202457	206	(Q19776628) Latin-script letter	Q19776628	#a7ff50	written work
+-2.5463068	26.71084	76	(Q5185279) poem, (Q7725634) literary work	Q5185279, Q7725634	#0050ff	written work
+95.54046	-98.35922	195	(Q1004) comics	Q1004	#8dff6a	written work
+48.266144	20.129772	189	(Q3331189) version, edition, or translation	Q3331189	#80ff77	written work
+34.78573	30.262907	56	(Q1980247) chapter	Q1980247	#0018ff	written work
+28.224981	166.92245	98	(Q482) poetry	Q482	#008cff	written work
+41.280354	39.755188	181	(Q19389637) biographical article	Q19389637	#6dff8a	written work
+41.542908	38.503124	181	(Q13433827) encyclopedic article	Q13433827	#6dff8a	written work
+27.82298	166.75058	98	(Q482) poetry, (Q5185279) poem	Q482, Q5185279	#008cff	written work
+48.570827	19.750725	189	(Q39811647) translated work	Q39811647	#80ff77	written work
+29.72657	-50.045223	348	(Q20540385) non-fiction book	Q20540385	#cd0000	written work
+47.700325	20.831749	189	(Q1302249) cross-reference	Q1302249	#80ff77	written work
+7.6366315	45.226486	206	(Q133492) letter	Q133492	#a7ff50	written work
+32.152454	30.770504	272	(Q1320047) book publisher, (Q2085381) publisher	Q1320047, Q2085381	#ffab00	written work
+54.728302	-33.85816	188	(Q10870555) report	Q10870555	#7dff7a	written work
+73.07726	90.54015	121	(Q732577) publication	Q732577	#00c8ff	written work
+41.210266	38.652096	181	(Q10389811) entry	Q10389811	#6dff8a	written work
+26.911167	165.04625	98	(Q80056) sonnet	Q80056	#008cff	written work
+17.51429	21.34661	141	(Q55089312) edition of commercial catalogue	Q55089312	#16ffe1	written work
+44.434856	70.322815	179	(Q1238720) volume	Q1238720	#6aff8d	written work
+17.838314	-21.300356	160	(Q3052382) fonds	Q3052382	#40ffb7	written work
+31.707315	-54.30393	278	(Q1711593) edited volume	Q1711593	#ff9c00	written work
+39.86297	37.608467	181	(Q1580166) dictionary entry	Q1580166	#6dff8a	written work
+35.954937	27.455753	56	(Q17928402) blog post	Q17928402	#0018ff	written work
+51.15767	-46.943672	85	(Q712597) article	Q712597	#0068ff	written work
+-0.15569976	22.982195	350	(Q17370328) lüshi with lines of five characters, (Q5185279) poem, (Q7725634) literary work	Q17370328, Q5185279, Q7725634	#c80000	written work
+44.42792	68.624016	179	(Q179797) lexicographic thesaurus,  -	Q179797	#6aff8d	written work
+-2.2265804	26.223536	76	(Q5185279) poem, (Q7725634) literary work, (Q86730311) qijue	Q5185279, Q7725634, Q86730311	#0050ff	written work
+0.035798892	22.65808	350	(Q10882176) wujue, (Q5185279) poem, (Q7725634) literary work	Q10882176, Q5185279, Q7725634	#c80000	written work
+-0.7169233	23.923311	350	(Q17367286) lüshi with lines of seven characters, (Q5185279) poem, (Q7725634) literary work	Q17367286, Q5185279, Q7725634	#c80000	written work
+38.376602	-57.42955	93	(Q333291) abstract	Q333291	#007cff	written work
+53.459785	-32.938248	188	(Q10870555) report, (Q47461344) written work	Q10870555, Q47461344	#7dff7a	written work
+59.834698	-133.37662	298	(Q75006800) Ang	Q75006800	#ff6c00	written work
+38.48324	-96.98751	255	(Q10429085) report	Q10429085	#ffd700	written work
